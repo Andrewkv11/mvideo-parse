@@ -1,0 +1,4529 @@
+[
+    [
+        {
+            "productId": "30054093",
+            "name": "Блок питания для компьютера XPG Pylon 550B (PYLON550B-BKCKR)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-pylon-550b-pylon550b-bkckr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054093",
+            "materialSource": "ERP",
+            "modelName": "Pylon 550B (PYLON550B-BKCKR)",
+            "rating": {
+                "star": 5,
+                "count": 17,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054093b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054093.jpg",
+                "Pdb/30054093b.jpg",
+                "Pdb/30054093b1.jpg",
+                "Pdb/30054093b2.jpg",
+                "Pdb/30054093b3.jpg",
+                "Pdb/30054093b4.jpg",
+                "Pdb/30054093b5.jpg",
+                "Pdb/30054093s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "550",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057595",
+            "name": "Блок питания для компьютера GIGABYTE GP-P750GM",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-gigabyte-gp-p750gm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057595",
+            "materialSource": "ERP",
+            "modelName": "GP-P750GM",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057595b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057595.jpg",
+                "Pdb/30057595b.jpg",
+                "Pdb/30057595b1.jpg",
+                "Pdb/30057595b2.jpg",
+                "Pdb/30057595b3.jpg",
+                "Pdb/30057595s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064316",
+            "name": "Блок питания для компьютера HIPER HPG-1200FM",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-hpg-1200fm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064316",
+            "materialSource": "ERP",
+            "modelName": "HPG-1200FM",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064316b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064316.jpg",
+                "Pdb/30064316b.jpg",
+                "Pdb/30064316b1.jpg",
+                "Pdb/30064316b2.jpg",
+                "Pdb/30064316b3.jpg",
+                "Pdb/30064316b4.jpg",
+                "Pdb/30064316s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30054096",
+            "name": "Блок питания для компьютера XPG Corereactor 750G (COREREACTOR750G-BKCEU)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-corereactor-750g-corereactor750g-bkceu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054096",
+            "materialSource": "ERP",
+            "modelName": "Corereactor 750G (COREREACTOR750G-BKCEU)",
+            "rating": {
+                "star": 5,
+                "count": 19,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054096b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054096.jpg",
+                "Pdb/30054096b.jpg",
+                "Pdb/30054096b1.jpg",
+                "Pdb/30054096b2.jpg",
+                "Pdb/30054096b3.jpg",
+                "Pdb/30054096b4.jpg",
+                "Pdb/30054096b5.jpg",
+                "Pdb/30054096b6.jpg",
+                "Pdb/30054096s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30054092",
+            "name": "Блок питания для компьютера XPG Pylon 450B (PYLON450B-BKCEU)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-pylon-450b-pylon450b-bkceu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054092",
+            "materialSource": "ERP",
+            "modelName": "Pylon 450B (PYLON450B-BKCEU)",
+            "rating": {
+                "star": 5,
+                "count": 17,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054092b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054092.jpg",
+                "Pdb/30054092b.jpg",
+                "Pdb/30054092b1.jpg",
+                "Pdb/30054092b2.jpg",
+                "Pdb/30054092b3.jpg",
+                "Pdb/30054092b4.jpg",
+                "Pdb/30054092b5.jpg",
+                "Pdb/30054092s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30054094",
+            "name": "Блок питания для компьютера XPG Pylon 650B (PYLON650B-BKCKR)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-pylon-650b-pylon650b-bkckr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054094",
+            "materialSource": "ERP",
+            "modelName": "Pylon 650B (PYLON650B-BKCKR)",
+            "rating": {
+                "star": 5,
+                "count": 15,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054094b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054094.jpg",
+                "Pdb/30054094b.jpg",
+                "Pdb/30054094b1.jpg",
+                "Pdb/30054094b2.jpg",
+                "Pdb/30054094b3.jpg",
+                "Pdb/30054094b4.jpg",
+                "Pdb/30054094b5.jpg",
+                "Pdb/30054094s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "650",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30054097",
+            "name": "Блок питания для компьютера XPG Corereactor 850G (COREREACTOR850G-BKCEU)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-corereactor-850g-corereactor850g-bkceu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054097",
+            "materialSource": "ERP",
+            "modelName": "Corereactor 850G (COREREACTOR850G-BKCEU)",
+            "rating": {
+                "star": 5,
+                "count": 14,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054097b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054097.jpg",
+                "Pdb/30054097b.jpg",
+                "Pdb/30054097b1.jpg",
+                "Pdb/30054097b2.jpg",
+                "Pdb/30054097b3.jpg",
+                "Pdb/30054097b4.jpg",
+                "Pdb/30054097b5.jpg",
+                "Pdb/30054097s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "850",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30054046",
+            "name": "Блок питания для компьютера XPG Corereactor 650G (COREREACTOR650G-BKCEU)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-corereactor-650g-corereactor650g-bkceu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054046",
+            "materialSource": "ERP",
+            "modelName": "Corereactor 650G (COREREACTOR650G-BKCEU)",
+            "rating": {
+                "star": 5,
+                "count": 20,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054046b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054046.jpg",
+                "Pdb/30054046b.jpg",
+                "Pdb/30054046b1.jpg",
+                "Pdb/30054046b2.jpg",
+                "Pdb/30054046b3.jpg",
+                "Pdb/30054046b4.jpg",
+                "Pdb/30054046b5.jpg",
+                "Pdb/30054046b6.jpg",
+                "Pdb/30054046s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "650",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30048971",
+            "name": "Блок питания для компьютера HIPER 700W HPB-700RGB",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-700w-hpb-700rgb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30048971",
+            "materialSource": "ERP",
+            "modelName": "700W HPB-700RGB",
+            "rating": {
+                "star": 4.857142857142857,
+                "count": 7,
+                "percent": 91
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30048971b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30048971.jpg",
+                "Pdb/30048971b.jpg",
+                "Pdb/30048971b1.jpg",
+                "Pdb/30048971s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064315",
+            "name": "Блок питания для компьютера HIPER HPG-1100FM",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-hpg-1100fm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064315",
+            "materialSource": "ERP",
+            "modelName": "HPG-1100FM",
+            "rating": {
+                "star": 5,
+                "count": 3,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064315b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064315.jpg",
+                "Pdb/30064315b.jpg",
+                "Pdb/30064315b1.jpg",
+                "Pdb/30064315b2.jpg",
+                "Pdb/30064315b3.jpg",
+                "Pdb/30064315b4.jpg",
+                "Pdb/30064315s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "1100",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064314",
+            "name": "Блок питания для компьютера HIPER HPG-1000FM",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-hpg-1000fm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064314",
+            "materialSource": "ERP",
+            "modelName": "HPG-1000FM",
+            "rating": {
+                "star": 5,
+                "count": 3,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064314b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064314.jpg",
+                "Pdb/30064314b.jpg",
+                "Pdb/30064314b1.jpg",
+                "Pdb/30064314b2.jpg",
+                "Pdb/30064314b3.jpg",
+                "Pdb/30064314b4.jpg",
+                "Pdb/30064314s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "1000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032001",
+            "name": "Блок питания для компьютера Cooler Master Elite V3 400W 230V",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-elite-v3-400w-230v",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032001",
+            "materialSource": "ERP",
+            "modelName": "Elite V3 400W 230V",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032001b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032001.jpg",
+                "Pdb/30032001b.jpg",
+                "Pdb/30032001b1.jpg",
+                "Pdb/30032001b2.jpg",
+                "Pdb/30032001b3.jpg",
+                "Pdb/30032001b4.jpg",
+                "Pdb/30032001b5.jpg",
+                "Pdb/30032001b6.jpg",
+                "Pdb/30032001b7.jpg",
+                "Pdb/30032001b8.jpg",
+                "Pdb/30032001s.jpg"
+            ],
+            "propertiesPortion": [],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30051320",
+            "name": "Блок питания для компьютера Chieftec CPS-750S",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-cps-750s",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30051320",
+            "materialSource": "ERP",
+            "modelName": "CPS-750S",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30051320b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30051320.jpg",
+                "Pdb/30051320b.jpg",
+                "Pdb/30051320s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30060753",
+            "name": "Блок питания для компьютера GIGABYTE ATX2.31 750W (GP-AP750GM)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-gigabyte-atx231-750w-gp-ap750gm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30060753",
+            "materialSource": "ERP",
+            "modelName": "ATX2.31 750W (GP-AP750GM)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30060753b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30060753.jpg",
+                "Pdb/30060753b.jpg",
+                "Pdb/30060753b1.jpg",
+                "Pdb/30060753b2.jpg",
+                "Pdb/30060753b3.jpg",
+                "Pdb/30060753b4.jpg",
+                "Pdb/30060753b5.jpg",
+                "Pdb/30060753b6.jpg",
+                "Pdb/30060753s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400027013",
+            "name": "Блок питания для компьютера XPG CYBERCORE1000-BKCEU",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-xpg-cybercore1000-bkceu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400027013",
+            "materialSource": "ERP",
+            "modelName": "CYBERCORE1000-BKCEU",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400027013b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400027013.jpg",
+                "Pdb/400027013b.jpg",
+                "Pdb/400027013b1.jpg",
+                "Pdb/400027013b2.jpg",
+                "Pdb/400027013s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "1000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.52",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30046645",
+            "name": "Блок питания для компьютера Cooler Master MWE Bronze 700W V2",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-mwe-bronze-700w-v2",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30046645",
+            "materialSource": "ERP",
+            "modelName": "MWE Bronze 700W V2",
+            "rating": {
+                "star": 5,
+                "count": 14,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30046645b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30046645.jpg",
+                "Pdb/30046645b.jpg",
+                "Pdb/30046645s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30048957",
+            "name": "Блок питания для компьютера HIPER 450W HPP-450",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-450w-hpp-450",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30048957",
+            "materialSource": "ERP",
+            "modelName": "450W HPP-450",
+            "rating": {
+                "star": 4.636363636363637,
+                "count": 11,
+                "percent": 91
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30048957b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30048957.jpg",
+                "Pdb/30048957b.jpg",
+                "Pdb/30048957s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "пассивный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30048974",
+            "name": "Блок питания для компьютера HIPER 450W HP-450TFX",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-450w-hp-450tfx",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30048974",
+            "materialSource": "ERP",
+            "modelName": "450W HP-450TFX",
+            "rating": {
+                "star": 5,
+                "count": 3,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30048974b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30048974.jpg",
+                "Pdb/30048974b.jpg",
+                "Pdb/30048974s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "TFX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "пассивный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30046647",
+            "name": "Блок питания для компьютера Cooler Master MWE Gold 550 Full modular",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-mwe-gold-550-full-modular",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30046647",
+            "materialSource": "ERP",
+            "modelName": "MWE Gold 550 Full modular",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30046647b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30046647.jpg",
+                "Pdb/30046647b.jpg",
+                "Pdb/30046647s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "550",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057594",
+            "name": "Блок питания для компьютера GIGABYTE GP-P850GM",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-gigabyte-gp-p850gm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057594",
+            "materialSource": "ERP",
+            "modelName": "GP-P850GM",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057594b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057594.jpg",
+                "Pdb/30057594b.jpg",
+                "Pdb/30057594b1.jpg",
+                "Pdb/30057594b2.jpg",
+                "Pdb/30057594b3.jpg",
+                "Pdb/30057594b4.jpg",
+                "Pdb/30057594b5.jpg",
+                "Pdb/30057594s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "850",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30049245",
+            "name": "Блок питания для компьютера Chieftec 700W Smart GPS-700A8",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-700w-smart-gps-700a8",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049245",
+            "materialSource": "ERP",
+            "modelName": "700W Smart GPS-700A8",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049245b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049245.jpg",
+                "Pdb/30049245b.jpg",
+                "Pdb/30049245s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032000",
+            "name": "Блок питания для компьютера Cooler Master Elite V3 500W 230V",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-elite-v3-500w-230v",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032000",
+            "materialSource": "ERP",
+            "modelName": "Elite V3 500W 230V",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032000b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032000.jpg",
+                "Pdb/30032000b.jpg",
+                "Pdb/30032000b1.jpg",
+                "Pdb/30032000b2.jpg",
+                "Pdb/30032000b3.jpg",
+                "Pdb/30032000b4.jpg",
+                "Pdb/30032000b5.jpg",
+                "Pdb/30032000b6.jpg",
+                "Pdb/30032000b7.jpg",
+                "Pdb/30032000b8.jpg",
+                "Pdb/30032000s.jpg"
+            ],
+            "propertiesPortion": [],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30058885",
+            "name": "Блок питания для компьютера Cooler Master V550 SFX Gold (MPY-5501-SFHAGV-EU)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-v550-sfx-gold-mpy-5501-sfhagv-eu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30058885",
+            "materialSource": "ERP",
+            "modelName": "V550 SFX Gold (MPY-5501-SFHAGV-EU)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30058885b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30058885.jpg",
+                "Pdb/30058885b.jpg",
+                "Pdb/30058885b1.jpg",
+                "Pdb/30058885b10.jpg",
+                "Pdb/30058885b11.jpg",
+                "Pdb/30058885b2.jpg",
+                "Pdb/30058885b3.jpg",
+                "Pdb/30058885b4.jpg",
+                "Pdb/30058885b5.jpg",
+                "Pdb/30058885b6.jpg",
+                "Pdb/30058885b7.jpg",
+                "Pdb/30058885b8.jpg",
+                "Pdb/30058885b9.jpg",
+                "Pdb/30058885s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "550",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "SFX 12V V3.42",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30049419",
+            "name": "Блок питания для компьютера Chieftec CTG-750C",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-ctg-750c",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049419",
+            "materialSource": "ERP",
+            "modelName": "CTG-750C",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049419b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049419.jpg",
+                "Pdb/30049419b.jpg",
+                "Pdb/30049419s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ],
+    [
+        {
+            "productId": "30049244",
+            "name": "Блок питания для компьютера Chieftec 600W Smart (GPS-600A8)",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-600w-smart-gps-600a8",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049244",
+            "materialSource": "ERP",
+            "modelName": "600W Smart (GPS-600A8)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049244b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049244.jpg",
+                "Pdb/30049244b.jpg",
+                "Pdb/30049244s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30049242",
+            "name": "Блок питания для компьютера Chieftec 650W SFX Compact CSN-650C",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-650w-sfx-compact-csn-650c",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049242",
+            "materialSource": "ERP",
+            "modelName": "650W SFX Compact CSN-650C",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049242b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049242.jpg",
+                "Pdb/30049242b.jpg",
+                "Pdb/30049242b1.jpg",
+                "Pdb/30049242s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "650",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.31",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30048986",
+            "name": "Блок питания для компьютера Cooler Master 500W MWE White V2 MPE-5001-ACABW-EU",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-500w-mwe-white-v2-mpe-5001-acabw-eu",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30048986",
+            "materialSource": "ERP",
+            "modelName": "500W MWE White V2 MPE-5001-ACABW-EU",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30048986b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30048986.jpg",
+                "Pdb/30048986b.jpg",
+                "Pdb/30048986s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30046651",
+            "name": "Блок питания для компьютера Cooler Master V750 Gold",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-cooler-master-v750-gold",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30046651",
+            "materialSource": "ERP",
+            "modelName": "V750 Gold",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30046651b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30046651.jpg",
+                "Pdb/30046651b.jpg",
+                "Pdb/30046651s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX12V",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30055109",
+            "name": "Блок питания для компьютера ASUS TUF-550B-GAMING",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-asus-tuf-550b-gaming",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30055109",
+            "materialSource": "ERP",
+            "modelName": "TUF-550B-GAMING",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30055109b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30055109.jpg",
+                "Pdb/30055109b.jpg",
+                "Pdb/30055109b1.jpg",
+                "Pdb/30055109b2.jpg",
+                "Pdb/30055109b3.jpg",
+                "Pdb/30055109b4.jpg",
+                "Pdb/30055109b5.jpg",
+                "Pdb/30055109s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "550",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30048973",
+            "name": "Блок питания для компьютера HIPER 300W HP-300TFX",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-hiper-300w-hp-300tfx",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30048973",
+            "materialSource": "ERP",
+            "modelName": "300W HP-300TFX",
+            "rating": {
+                "star": 5,
+                "count": 4,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30048973b.jpg",
+            "brandId": "1976",
+            "brandName": "HIPER",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30048973.jpg",
+                "Pdb/30048973b.jpg",
+                "Pdb/30048973s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "300",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "TFX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "пассивный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30049399",
+            "name": "Блок питания для компьютера Chieftec 650W GDP-650C",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-650w-gdp-650c",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049399",
+            "materialSource": "ERP",
+            "modelName": "650W GDP-650C",
+            "rating": {
+                "star": 3,
+                "count": 2,
+                "percent": 61
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049399b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049399.jpg",
+                "Pdb/30049399b.jpg",
+                "Pdb/30049399s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "650",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30051309",
+            "name": "Блок питания для компьютера Chieftec BDF-500S",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-chieftec-bdf-500s",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30051309",
+            "materialSource": "ERP",
+            "modelName": "BDF-500S",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30051309b.jpg",
+            "brandId": "4731",
+            "brandName": "Chieftec",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30051309.jpg",
+                "Pdb/30051309b.jpg",
+                "Pdb/30051309s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182295",
+            "name": "Блок питания для компьютера Winard 600 WA12 12см Black",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-winard-600-wa12-12sm-black",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182295",
+            "materialSource": "shelf",
+            "modelName": "600 WA12 12см Black",
+            "rating": {
+                "star": 3.5,
+                "count": 6,
+                "percent": 71
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182295b.jpg",
+            "brandId": "5452",
+            "brandName": "Winard",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182295.jpg",
+                "Pdb/4182295b.jpg",
+                "Pdb/4182295b1.jpg",
+                "Pdb/4182295b2.jpg",
+                "Pdb/4182295s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8716,
+                    "name": "Количество разъемов 6-pin PCI-E",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182310",
+            "name": "Блок питания для компьютера Ginzzu PC600 14см 80+",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-pc600-14sm-80",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182310",
+            "materialSource": "shelf",
+            "modelName": "PC600 14см 80+",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182310b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182310.jpg",
+                "Pdb/4182310b.jpg",
+                "Pdb/4182310b1.jpg",
+                "Pdb/4182310b2.jpg",
+                "Pdb/4182310b3.jpg",
+                "Pdb/4182310s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182298",
+            "name": "Блок питания для компьютера Ginzzu SB450 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-sb450-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182298",
+            "materialSource": "shelf",
+            "modelName": "SB450 12см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182298b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182298.jpg",
+                "Pdb/4182298b.jpg",
+                "Pdb/4182298s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182304",
+            "name": "Блок питания для компьютера Ginzzu CB550 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-cb550-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182304",
+            "materialSource": "shelf",
+            "modelName": "CB550 12см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182304b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182304.jpg",
+                "Pdb/4182304b.jpg",
+                "Pdb/4182304b1.jpg",
+                "Pdb/4182304b2.jpg",
+                "Pdb/4182304b3.jpg",
+                "Pdb/4182304s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "550",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182296",
+            "name": "Блок питания для компьютера Ginzzu SA400",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-sa400",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182296",
+            "materialSource": "shelf",
+            "modelName": "SA400",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182296b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182296.jpg",
+                "Pdb/4182296b.jpg",
+                "Pdb/4182296b1.jpg",
+                "Pdb/4182296b2.jpg",
+                "Pdb/4182296b3.jpg",
+                "Pdb/4182296b4.jpg",
+                "Pdb/4182296s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "400",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182300",
+            "name": "Блок питания для компьютера Ginzzu SB500 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-sb500-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182300",
+            "materialSource": "shelf",
+            "modelName": "SB500 12см",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182300b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182300.jpg",
+                "Pdb/4182300b.jpg",
+                "Pdb/4182300b1.jpg",
+                "Pdb/4182300b2.jpg",
+                "Pdb/4182300b3.jpg",
+                "Pdb/4182300b4.jpg",
+                "Pdb/4182300s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182306",
+            "name": "Блок питания для компьютера Ginzzu CB650 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-cb650-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182306",
+            "materialSource": "shelf",
+            "modelName": "CB650 12см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182306b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182306.jpg",
+                "Pdb/4182306b.jpg",
+                "Pdb/4182306b1.jpg",
+                "Pdb/4182306b2.jpg",
+                "Pdb/4182306b3.jpg",
+                "Pdb/4182306s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "650",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182307",
+            "name": "Блок питания для компьютера Ginzzu CB700 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-cb700-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182307",
+            "materialSource": "shelf",
+            "modelName": "CB700 12см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182307b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182307.jpg",
+                "Pdb/4182307b.jpg",
+                "Pdb/4182307b1.jpg",
+                "Pdb/4182307b2.jpg",
+                "Pdb/4182307b3.jpg",
+                "Pdb/4182307s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182309",
+            "name": "Блок питания для компьютера Ginzzu PC500 14см 80+",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-pc500-14sm-80",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182309",
+            "materialSource": "shelf",
+            "modelName": "PC500 14см 80+",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182309b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182309.jpg",
+                "Pdb/4182309b.jpg",
+                "Pdb/4182309b1.jpg",
+                "Pdb/4182309b2.jpg",
+                "Pdb/4182309b3.jpg",
+                "Pdb/4182309s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182291",
+            "name": "Блок питания для компьютера Winard 450 WA",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-winard-450-wa",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182291",
+            "materialSource": "shelf",
+            "modelName": "450 WA",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182291b.jpg",
+            "brandId": "5452",
+            "brandName": "Winard",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182291.jpg",
+                "Pdb/4182291b.jpg",
+                "Pdb/4182291b1.jpg",
+                "Pdb/4182291s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182301",
+            "name": "Блок питания для компьютера Ginzzu CA450 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-ca450-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182301",
+            "materialSource": "shelf",
+            "modelName": "CA450 12см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182301b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182301.jpg",
+                "Pdb/4182301b.jpg",
+                "Pdb/4182301b1.jpg",
+                "Pdb/4182301b2.jpg",
+                "Pdb/4182301s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8716,
+                    "name": "Количество разъемов 6-pin PCI-E",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182312",
+            "name": "Блок питания для компьютера Ginzzu PC800 14см 80+",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-pc800-14sm-80",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182312",
+            "materialSource": "shelf",
+            "modelName": "PC800 14см 80+",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182312b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182312.jpg",
+                "Pdb/4182312b.jpg",
+                "Pdb/4182312b1.jpg",
+                "Pdb/4182312b2.jpg",
+                "Pdb/4182312b3.jpg",
+                "Pdb/4182312s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "800",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182315",
+            "name": "Блок питания для компьютера Ginzzu MC700 14см 80+Bronze",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-mc700-14sm-80bronze",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182315",
+            "materialSource": "shelf",
+            "modelName": "MC700 14см 80+Bronze",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182315b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182315.jpg",
+                "Pdb/4182315b.jpg",
+                "Pdb/4182315b1.jpg",
+                "Pdb/4182315b2.jpg",
+                "Pdb/4182315b3.jpg",
+                "Pdb/4182315b4.jpg",
+                "Pdb/4182315b5.jpg",
+                "Pdb/4182315s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182290",
+            "name": "Блок питания для компьютера Winard 400 WA",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-winard-400-wa",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182290",
+            "materialSource": "shelf",
+            "modelName": "400 WA",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182290b.jpg",
+            "brandId": "5452",
+            "brandName": "Winard",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182290.jpg",
+                "Pdb/4182290b.jpg",
+                "Pdb/4182290s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "400",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182302",
+            "name": "Блок питания для компьютера Ginzzu CB450 12см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-cb450-12sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182302",
+            "materialSource": "shelf",
+            "modelName": "CB450 12см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182302b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182302.jpg",
+                "Pdb/4182302b.jpg",
+                "Pdb/4182302b1.jpg",
+                "Pdb/4182302b2.jpg",
+                "Pdb/4182302b3.jpg",
+                "Pdb/4182302s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "450",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8716,
+                    "name": "Количество разъемов 6-pin PCI-E",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400039382",
+            "name": "Блок питания для компьютера Ginzzu MC1000 14CM 80 PLUS Bronze",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-ginzzu-mc1000-14cm-80-plus-bronze",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "400039382",
+            "materialSource": "shelf",
+            "modelName": "MC1000 14CM 80 PLUS Bronze",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400039382b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400039382.jpg",
+                "Pdb/400039382b.jpg",
+                "Pdb/400039382b1.jpg",
+                "Pdb/400039382b2.jpg",
+                "Pdb/400039382b3.jpg",
+                "Pdb/400039382b4.jpg",
+                "Pdb/400039382s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "1000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V V2.3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8680,
+                    "name": "PFC",
+                    "value": "активный",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8671,
+                    "name": "Количество разъемов 6+2-pin PCI-E",
+                    "value": "6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "шт"
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ],
+    [
+        {
+            "productId": "4182292",
+            "name": "Блок питания для компьютера Winard 450 WA12 12 см",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-winard-450-wa12-12-sm",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182292",
+            "materialSource": "shelf",
+            "modelName": "450 WA12 12 см",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182292b.jpg",
+            "brandId": "5452",
+            "brandName": "Winard",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182292.jpg",
+                "Pdb/4182292b.jpg",
+                "Pdb/4182292b1.jpg",
+                "Pdb/4182292s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "400",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182293",
+            "name": "Блок питания для компьютера Winard 500 WA",
+            "nameTranslit": "blok-pitaniya-dlya-komputera-winard-500-wa",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182293",
+            "materialSource": "shelf",
+            "modelName": "500 WA",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182293b.jpg",
+            "brandId": "5452",
+            "brandName": "Winard",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5444",
+                "name": "Блоки питания"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182293.jpg",
+                "Pdb/4182293b.jpg",
+                "Pdb/4182293b1.jpg",
+                "Pdb/4182293b2.jpg",
+                "Pdb/4182293b3.jpg",
+                "Pdb/4182293s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 1298,
+                    "name": "Мощность",
+                    "value": "500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8679,
+                    "name": "Стандарт",
+                    "value": "ATX 12V 2.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 30852306,
+                    "name": "Защита от перегрузки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 8676,
+                    "name": "Защита от перенапряжения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ]
+]

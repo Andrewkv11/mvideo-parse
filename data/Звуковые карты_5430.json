@@ -1,0 +1,291 @@
+[
+    [
+        {
+            "productId": "30040405",
+            "name": "Звуковая карта Zowie Vital (9H.N09EB.A1E)",
+            "nameTranslit": "zvukovaya-karta-zowie-vital-9hn09eba1e",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30040405",
+            "materialSource": "ERP",
+            "modelName": "Vital (9H.N09EB.A1E)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30040405b.jpg",
+            "brandId": "1084",
+            "brandName": "Zowie",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5439",
+                "name": "Звуковые карты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30040405.jpg",
+                "Pdb/30040405b.jpg",
+                "Pdb/30040405b1.jpg",
+                "Pdb/30040405b2.jpg",
+                "Pdb/30040405b3.jpg",
+                "Pdb/30040405s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 985,
+                    "name": "Количество каналов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 1111,
+                    "name": "Разрядность ЦАП",
+                    "value": "24",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "Бит"
+                },
+                {
+                    "id": 8684,
+                    "name": "Максимальная частота ЦАП (стерео)",
+                    "value": "96",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "кГц"
+                },
+                {
+                    "id": 160,
+                    "name": "Интерфейс связи с ПК",
+                    "value": "USB 2.0",
+                    "nameDescription": null,
+                    "valueDescription": "Широко распространённый интерфейс, обеспечивающий простое подключение и высокую скорость передачи данных.",
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 177,
+                    "name": "Выход 3.5 мм аудио",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400025537",
+            "name": "Внешняя звуковая карта Arturia MiniFuse 2 black",
+            "nameTranslit": "vneshnyaya-zvukovaya-karta-arturia-minifuse-2-black",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "400025537",
+            "materialSource": "shelf",
+            "modelName": "MiniFuse 2 black",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000053373",
+                "name": "ООО ЭмПиСи Дистрибуция",
+                "address": "119421, Москва, Ленинский проспект, 99",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "5177746181795",
+                "inn": "7728385694",
+                "phone": "+78002019111"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400025537b.jpg",
+            "brandId": "8834",
+            "brandName": "Arturia",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5439",
+                "name": "Звуковые карты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400025537.jpg",
+                "Pdb/400025537b.jpg",
+                "Pdb/400025537b1.jpg",
+                "Pdb/400025537b2.jpg",
+                "Pdb/400025537s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 985,
+                    "name": "Количество каналов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 1111,
+                    "name": "Разрядность ЦАП",
+                    "value": "24",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "Бит"
+                },
+                {
+                    "id": 8684,
+                    "name": "Максимальная частота ЦАП (стерео)",
+                    "value": "192",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "кГц"
+                },
+                {
+                    "id": 160,
+                    "name": "Интерфейс связи с ПК",
+                    "value": "USB 2.0",
+                    "nameDescription": null,
+                    "valueDescription": "Широко распространённый интерфейс, обеспечивающий простое подключение и высокую скорость передачи данных.",
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 177,
+                    "name": "Выход 3.5 мм аудио",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400025532",
+            "name": "Внешняя звуковая карта Arturia MiniFuse 2",
+            "nameTranslit": "vneshnyaya-zvukovaya-karta-arturia-minifuse-2",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "400025532",
+            "materialSource": "shelf",
+            "modelName": "MiniFuse 2",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000053373",
+                "name": "ООО ЭмПиСи Дистрибуция",
+                "address": "119421, Москва, Ленинский проспект, 99",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "5177746181795",
+                "inn": "7728385694",
+                "phone": "+78002019111"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400025532b.jpg",
+            "brandId": "8834",
+            "brandName": "Arturia",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5439",
+                "name": "Звуковые карты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400025532.jpg",
+                "Pdb/400025532b.jpg",
+                "Pdb/400025532b1.jpg",
+                "Pdb/400025532b2.jpg",
+                "Pdb/400025532s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 985,
+                    "name": "Количество каналов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 1111,
+                    "name": "Разрядность ЦАП",
+                    "value": "24",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "Бит"
+                },
+                {
+                    "id": 8684,
+                    "name": "Максимальная частота ЦАП (стерео)",
+                    "value": "192",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "кГц"
+                },
+                {
+                    "id": 160,
+                    "name": "Интерфейс связи с ПК",
+                    "value": "USB 2.0",
+                    "nameDescription": null,
+                    "valueDescription": "Широко распространённый интерфейс, обеспечивающий простое подключение и высокую скорость передачи данных.",
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 177,
+                    "name": "Выход 3.5 мм аудио",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ]
+]

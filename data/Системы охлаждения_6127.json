@@ -1,0 +1,1989 @@
+[
+    [
+        {
+            "productId": "30046630",
+            "name": "Кулер для процессора Cooler Master G100M",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-g100m",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30046630",
+            "materialSource": "ERP",
+            "modelName": "G100M",
+            "rating": {
+                "star": 4.666666666666667,
+                "count": 3,
+                "percent": 91
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30046630b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30046630.jpg",
+                "Pdb/30046630b.jpg",
+                "Pdb/30046630s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "130",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "74.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "600 - 2400 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "9-30 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30058597",
+            "name": "Кулер для процессора Abkoncore CT408B",
+            "nameTranslit": "kuler-dlya-processora-abkoncore-ct408b",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30058597",
+            "materialSource": "ERP",
+            "modelName": "CT408B",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30058597b.jpg",
+            "brandId": "7107",
+            "brandName": "Abkoncore",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30058597.jpg",
+                "Pdb/30058597b.jpg",
+                "Pdb/30058597b1.jpg",
+                "Pdb/30058597b2.jpg",
+                "Pdb/30058597b3.jpg",
+                "Pdb/30058597s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "150",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "157",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "800 - 1650 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "33 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032056",
+            "name": "Кулер для процессора Cooler Master Hyper 412S",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-hyper-412s",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032056",
+            "materialSource": "ERP",
+            "modelName": "Hyper 412S",
+            "rating": {
+                "star": 5,
+                "count": 3,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032056b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032056.jpg",
+                "Pdb/30032056b.jpg",
+                "Pdb/30032056s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "150",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "160",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1300 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "52.6 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30049022",
+            "name": "Кулер для процессора Cooler Master MasterAir MA621P TR4 MAP-D6PN-218PC-R2",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-masterair-ma621p-tr4-map-d6pn-218pc-r2",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049022",
+            "materialSource": "ERP",
+            "modelName": "MasterAir MA621P TR4 MAP-D6PN-218PC-R2",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049022b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049022.jpg",
+                "Pdb/30049022b.jpg",
+                "Pdb/30049022b1.jpg",
+                "Pdb/30049022b2.jpg",
+                "Pdb/30049022s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "250",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "164.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "600 - 1800 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "9-31 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30046631",
+            "name": "Кулер для процессора Cooler Master MA410M ARGB",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-ma410m-argb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30046631",
+            "materialSource": "ERP",
+            "modelName": "MA410M ARGB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30046631b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30046631.jpg",
+                "Pdb/30046631b.jpg",
+                "Pdb/30046631s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "180",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "165.1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "600 - 1800 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "6-31 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032065",
+            "name": "Кулер для процессора Cooler Master XDream i115 (RR-X115-40PK-R1)",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-xdream-i115-rr-x115-40pk-r1",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032065",
+            "materialSource": "ERP",
+            "modelName": "XDream i115 (RR-X115-40PK-R1)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032065b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032065.jpg",
+                "Pdb/30032065b.jpg",
+                "Pdb/30032065s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "65",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "49",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "900 - 4000 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "19-36 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032062",
+            "name": "Кулер для процессора Cooler Master Hyper 103 (RR-H103-22PB-R1)",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-hyper-103-rr-h103-22pb-r1",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032062",
+            "materialSource": "ERP",
+            "modelName": "Hyper 103 (RR-H103-22PB-R1)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032062b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032062.jpg",
+                "Pdb/30032062b.jpg",
+                "Pdb/30032062s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "95",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "139",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "800 - 2200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "17-30 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30058721",
+            "name": "Кулер для процессора Cooler Master MasterLiquid ML240 Illusion",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-masterliquid-ml240-illusion",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30058721",
+            "materialSource": "ERP",
+            "modelName": "MasterLiquid ML240 Illusion",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30058721b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30058721.jpg",
+                "Pdb/30058721b.jpg",
+                "Pdb/30058721b1.jpg",
+                "Pdb/30058721b2.jpg",
+                "Pdb/30058721b4.jpg",
+                "Pdb/30058721b5.jpg",
+                "Pdb/30058721b6.jpg",
+                "Pdb/30058721b7.jpg",
+                "Pdb/30058721s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "120",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "650 - 1800 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "6-30 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "46.2 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032059",
+            "name": "Кулер для процессора Cooler Master Hyper H412R Non LED (RR-H412-20PK-R2)",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-hyper-h412r-non-led-rr-h412-20pk-r2",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032059",
+            "materialSource": "ERP",
+            "modelName": "Hyper H412R Non LED (RR-H412-20PK-R2)",
+            "rating": {
+                "star": 5,
+                "count": 5,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032059b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032059.jpg",
+                "Pdb/30032059b.jpg",
+                "Pdb/30032059s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "100",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "136",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "600 - 2000 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "34.1 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061081",
+            "name": "Кулер для процессора MSI MAG CORELIQUID 240R",
+            "nameTranslit": "kuler-dlya-processora-msi-mag-coreliquid-240r",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061081",
+            "materialSource": "ERP",
+            "modelName": "MAG CORELIQUID 240R",
+            "rating": {
+                "star": 4,
+                "count": 4,
+                "percent": 81
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061081b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061081.jpg",
+                "Pdb/30061081b.jpg",
+                "Pdb/30061081b1.jpg",
+                "Pdb/30061081b2.jpg",
+                "Pdb/30061081b3.jpg",
+                "Pdb/30061081s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "500 - 2000 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "14.3-34 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "21.63 - 78.73 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8794,
+                    "name": "Размеры вентилятора",
+                    "value": "120*120*25",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30049475",
+            "name": "Система водяного охлаждения ASUS ROG STRIX LC 120",
+            "nameTranslit": "sistema-vodyanogo-ohlazhdeniya-asus-rog-strix-lc-120",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30049475",
+            "materialSource": "ERP",
+            "modelName": "ROG STRIX LC 120",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30049475b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30049475.jpg",
+                "Pdb/30049475b.jpg",
+                "Pdb/30049475s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "800 - 2500 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "37.6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                },
+                {
+                    "id": 8798,
+                    "name": "Регулятор оборотов ",
+                    "value": "PWM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": null
+                },
+                {
+                    "id": 8800,
+                    "name": "Размеры (ВхШхГ)",
+                    "value": "138*309*199 мм",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30041359",
+            "name": "Блок управления Dark Project FN-2 (DP-FN-0002)",
+            "nameTranslit": "blok-upravleniya-dark-project-fn-2-dp-fn-0002",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30041359",
+            "materialSource": "ERP",
+            "modelName": "FN-2 (DP-FN-0002)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30041359b.jpg",
+            "brandId": "4286",
+            "brandName": "Dark Project",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30041359.jpg",
+                "Pdb/30041359b.jpg",
+                "Pdb/30041359b1.jpg",
+                "Pdb/30041359b2.jpg",
+                "Pdb/30041359s.jpg"
+            ],
+            "propertiesPortion": [],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30046632",
+            "name": "Кулер для процессора Cooler Master MA620P RGB",
+            "nameTranslit": "kuler-dlya-processora-cooler-master-ma620p-rgb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30046632",
+            "materialSource": "ERP",
+            "modelName": "MA620P RGB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30046632b.jpg",
+            "brandId": "1733",
+            "brandName": "Cooler Master",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30046632.jpg",
+                "Pdb/30046632b.jpg",
+                "Pdb/30046632s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8790,
+                    "name": "Максимальная рассеиваемая мощность",
+                    "value": "200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "166.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "600 - 1800 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "9-31 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30054089",
+            "name": "Кулер для процессора XPG Levante 240 (LEVANTE240-BKCWW)",
+            "nameTranslit": "kuler-dlya-processora-xpg-levante-240-levante240-bkcww",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30054089",
+            "materialSource": "ERP",
+            "modelName": "Levante 240 (LEVANTE240-BKCWW)",
+            "rating": {
+                "star": 5,
+                "count": 18,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30054089b.jpg",
+            "brandId": "6309",
+            "brandName": "XPG",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "7927",
+                "name": "Кулеры для процессоров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30054089.jpg",
+                "Pdb/30054089b.jpg",
+                "Pdb/30054089b1.jpg",
+                "Pdb/30054089b2.jpg",
+                "Pdb/30054089b3.jpg",
+                "Pdb/30054089b4.jpg",
+                "Pdb/30054089s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8799,
+                    "name": "Высота кулера",
+                    "value": "20",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": "мм"
+                },
+                {
+                    "id": 8793,
+                    "name": "Количество вентиляторов",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "600 - 2000 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 30849352,
+                    "name": "Уровень шума",
+                    "value": "34 дБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8794,
+                    "name": "Размеры вентилятора",
+                    "value": "120*120",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182392",
+            "name": "Вентилятор для компьютера Ginzzu 12RR4",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12rr4",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182392",
+            "materialSource": "shelf",
+            "modelName": "12RR4",
+            "rating": {
+                "star": 4,
+                "count": 1,
+                "percent": 81
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182392b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182392.jpg",
+                "Pdb/4182392b.jpg",
+                "Pdb/4182392b1.jpg",
+                "Pdb/4182392s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "RGB",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182389",
+            "name": "Вентилятор для компьютера Ginzzu 12LG33",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12lg33",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182389",
+            "materialSource": "shelf",
+            "modelName": "12LG33 (зеленый)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182389b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182389.jpg",
+                "Pdb/4182389b.jpg",
+                "Pdb/4182389b1.jpg",
+                "Pdb/4182389s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "зеленая",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182404",
+            "name": "Вентилятор для компьютера Ginzzu 12R6",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12r6",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182404",
+            "materialSource": "shelf",
+            "modelName": "12R6",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182404b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182404.jpg",
+                "Pdb/4182404b.jpg",
+                "Pdb/4182404b1.jpg",
+                "Pdb/4182404b2.jpg",
+                "Pdb/4182404s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "RGB",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182401",
+            "name": "Вентилятор для компьютера Ginzzu 12R4",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12r4",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182401",
+            "materialSource": "shelf",
+            "modelName": "12R4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182401b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182401.jpg",
+                "Pdb/4182401b.jpg",
+                "Pdb/4182401b1.jpg",
+                "Pdb/4182401b2.jpg",
+                "Pdb/4182401s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "RGB",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182391",
+            "name": "Вентилятор для компьютера Ginzzu 12LR33",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12lr33",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182391",
+            "materialSource": "shelf",
+            "modelName": "12LR33 (красный)",
+            "rating": {
+                "star": 2,
+                "count": 1,
+                "percent": 41
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182391b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182391.jpg",
+                "Pdb/4182391b.jpg",
+                "Pdb/4182391b1.jpg",
+                "Pdb/4182391s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "красная",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182396",
+            "name": "Вентилятор для компьютера Ginzzu 12DR6",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12dr6",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182396",
+            "materialSource": "shelf",
+            "modelName": "12DR6",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182396b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182396.jpg",
+                "Pdb/4182396b.jpg",
+                "Pdb/4182396b1.jpg",
+                "Pdb/4182396b2.jpg",
+                "Pdb/4182396s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "RGB",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182388",
+            "name": "Вентилятор для компьютера Ginzzu 12LG15",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12lg15",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182388",
+            "materialSource": "shelf",
+            "modelName": "12LG15 (зеленый)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182388b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182388.jpg",
+                "Pdb/4182388b.jpg",
+                "Pdb/4182388b1.jpg",
+                "Pdb/4182388s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "24",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "зеленая",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "4182386",
+            "name": "Вентилятор для компьютера Ginzzu 12LB15",
+            "nameTranslit": "ventilyator-dlya-komputera-ginzzu-12lb15",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "4182386",
+            "materialSource": "shelf",
+            "modelName": "12LB15 (синий)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000040088",
+                "name": "ООО Гинзу",
+                "address": "125502, Москва, улица Лавочкина, 19",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1097746806013",
+                "inn": "7733720370",
+                "phone": "+74954555141"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/4182386b.jpg",
+            "brandId": "2683",
+            "brandName": "Ginzzu",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "6128",
+                "name": "Вентиляторы для компьютеров"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/4182386.jpg",
+                "Pdb/4182386b.jpg",
+                "Pdb/4182386b1.jpg",
+                "Pdb/4182386s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 4464,
+                    "name": "Назначение",
+                    "value": "для компьютера",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8795,
+                    "name": "Скорость вращения",
+                    "value": "1200 об/мин",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8797,
+                    "name": "Воздушный поток ",
+                    "value": "41.3 CFM",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 269,
+                    "name": "Максимальный уровень шума",
+                    "value": "15",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "дБ"
+                },
+                {
+                    "id": 723,
+                    "name": "Цвет подсветки",
+                    "value": "синяя",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ]
+]

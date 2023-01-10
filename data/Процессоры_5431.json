@@ -1,0 +1,1501 @@
+[
+    [
+        {
+            "productId": "30057993",
+            "name": "Процессор Intel Core i5-10400F (BX8070110400FSRH79)",
+            "nameTranslit": "processor-intel-core-i5-10400f-bx8070110400fsrh79",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057993",
+            "materialSource": "ERP",
+            "modelName": "Core i5-10400F (BX8070110400FSRH79)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057993b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057993.jpg",
+                "Pdb/30057993b.jpg",
+                "Pdb/30057993s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "6",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "2900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "12 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4300",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064135",
+            "name": "Процессор Intel Core i5-11600KF Box",
+            "nameTranslit": "processor-intel-core-i5-11600kf-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064135",
+            "materialSource": "ERP",
+            "modelName": "i5-11600KF 4.9GHz Box",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064135b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064135.jpg",
+                "Pdb/30064135b.jpg",
+                "Pdb/30064135s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "6",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "12 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062407",
+            "name": "Процессор Intel CORE I3-10105F S1200 3.7G (BX8070110105F S RH8V)",
+            "nameTranslit": "processor-intel-core-i3-10105f-s1200-37g-bx8070110105f-s-rh8v",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062407",
+            "materialSource": "ERP",
+            "modelName": "CORE I3-10105F S1200 3.7G (BX8070110105F S RH8V)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062407b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062407.jpg",
+                "Pdb/30062407b.jpg",
+                "Pdb/30062407s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "6 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8654,
+                    "name": "Кэш-память (L2)",
+                    "value": "1.5 МБ",
+                    "nameDescription": "Кэш-память второго уровня (L2) предназначена для работы с важной информацией, к которой процессор обращается несколько реже, чем к данным, хранящимся на L1. Объём этой памяти может составлять несколько сотен килобайт.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062448",
+            "name": "Процессор Intel Celeron G6900 S1700 3.4G (BX80715G6900 S RL67)",
+            "nameTranslit": "processor-intel-celeron-g6900-s1700-34g-bx80715g6900-s-rl67",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062448",
+            "materialSource": "ERP",
+            "modelName": "Celeron G6900 S1700 3.4G (BX80715G6900 S RL67)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062448b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062448.jpg",
+                "Pdb/30062448b.jpg",
+                "Pdb/30062448s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3400",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "4 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8654,
+                    "name": "Кэш-память (L2)",
+                    "value": "2.5 МБ",
+                    "nameDescription": "Кэш-память второго уровня (L2) предназначена для работы с важной информацией, к которой процессор обращается несколько реже, чем к данным, хранящимся на L1. Объём этой памяти может составлять несколько сотен килобайт.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064138",
+            "name": "Процессор Intel Core i5-12600K Box",
+            "nameTranslit": "processor-intel-core-i5-12600k-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064138",
+            "materialSource": "ERP",
+            "modelName": "i5 12600K 4.9GHz Box",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064138b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064138.jpg",
+                "Pdb/30064138b.jpg",
+                "Pdb/30064138s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "10",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "20 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062442",
+            "name": "Процессор Intel Celeron G5925 S1200 3.6G (BX80701G5925 S RK26)",
+            "nameTranslit": "processor-intel-celeron-g5925-s1200-36g-bx80701g5925-s-rk26",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062442",
+            "materialSource": "ERP",
+            "modelName": "Celeron G5925 S1200 3.6G (BX80701G5925 S RK26)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062442b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062442.jpg",
+                "Pdb/30062442b.jpg",
+                "Pdb/30062442s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "4 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8654,
+                    "name": "Кэш-память (L2)",
+                    "value": "512 КБ",
+                    "nameDescription": "Кэш-память второго уровня (L2) предназначена для работы с важной информацией, к которой процессор обращается несколько реже, чем к данным, хранящимся на L1. Объём этой памяти может составлять несколько сотен килобайт.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064120",
+            "name": "Процессор Intel Core i3-10100 Box",
+            "nameTranslit": "processor-intel-core-i3-10100-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064120",
+            "materialSource": "ERP",
+            "modelName": "i3-10100 4.30GHz Box",
+            "rating": {
+                "star": 5,
+                "count": 5,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064120b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064120.jpg",
+                "Pdb/30064120b.jpg",
+                "Pdb/30064120s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "6 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4300",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061650",
+            "name": "Процессор Intel Core i3-10100 (BX8070110100SRH3N)",
+            "nameTranslit": "processor-intel-core-i3-10100-bx8070110100srh3n",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061650",
+            "materialSource": "ERP",
+            "modelName": "Core i3-10100 (BX8070110100SRH3N)",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061650b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061650.jpg",
+                "Pdb/30061650b.jpg",
+                "Pdb/30061650b1.jpg",
+                "Pdb/30061650s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "6 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8654,
+                    "name": "Кэш-память (L2)",
+                    "value": "1.5 МБ",
+                    "nameDescription": "Кэш-память второго уровня (L2) предназначена для работы с важной информацией, к которой процессор обращается несколько реже, чем к данным, хранящимся на L1. Объём этой памяти может составлять несколько сотен килобайт.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057992",
+            "name": "Процессор Intel Core i5-10400 (BX8070110400SRH3C)",
+            "nameTranslit": "processor-intel-core-i5-10400-bx8070110400srh3c",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057992",
+            "materialSource": "ERP",
+            "modelName": "Core i5-10400 (BX8070110400SRH3C)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057992b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057992.jpg",
+                "Pdb/30057992b.jpg",
+                "Pdb/30057992s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "6",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "2900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "12 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4300",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064129",
+            "name": "Процессор Intel Core i5-10600K no fan Box",
+            "nameTranslit": "processor-intel-core-i5-10600k-no-fan-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064129",
+            "materialSource": "ERP",
+            "modelName": "i5 10600K 4.1GHz 12M 1200 no fan Box",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064129b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064129.jpg",
+                "Pdb/30064129b.jpg",
+                "Pdb/30064129s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "6",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "4100",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "12 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4800",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064134",
+            "name": "Процессор Intel Core i5-11600K Box",
+            "nameTranslit": "processor-intel-core-i5-11600k-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064134",
+            "materialSource": "ERP",
+            "modelName": "i5-11600K 3.9GHz Box",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064134b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064134.jpg",
+                "Pdb/30064134b.jpg",
+                "Pdb/30064134s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "6",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "12 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064136",
+            "name": "Процессор Intel Core i5-12500 Box",
+            "nameTranslit": "processor-intel-core-i5-12500-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064136",
+            "materialSource": "ERP",
+            "modelName": "i5-12500 Box",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064136b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064136.jpg",
+                "Pdb/30064136b.jpg",
+                "Pdb/30064136s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "6",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "18 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064170",
+            "name": "Процессор Intel Core i7-12700KF Box",
+            "nameTranslit": "processor-intel-core-i7-12700kf-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064170",
+            "materialSource": "ERP",
+            "modelName": "i7 12700KF 4.9GHz",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064170b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064170.jpg",
+                "Pdb/30064170b.jpg",
+                "Pdb/30064170s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "12",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "25 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "5000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062443",
+            "name": "Процессор Intel Pentium G6405 S1200 4.1G (BX80701G6405 S RH3Z)",
+            "nameTranslit": "processor-intel-pentium-g6405-s1200-41g-bx80701g6405-s-rh3z",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062443",
+            "materialSource": "ERP",
+            "modelName": "Pentium G6405 S1200 4.1G (BX80701G6405 S RH3Z)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062443b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062443.jpg",
+                "Pdb/30062443b.jpg",
+                "Pdb/30062443s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "4100",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "4 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8654,
+                    "name": "Кэш-память (L2)",
+                    "value": "512 КБ",
+                    "nameDescription": "Кэш-память второго уровня (L2) предназначена для работы с важной информацией, к которой процессор обращается несколько реже, чем к данным, хранящимся на L1. Объём этой памяти может составлять несколько сотен килобайт.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062446",
+            "name": "Процессор Intel CORE I5-12600KF S1700 3.7G(BX8071512600KF S RL4U)",
+            "nameTranslit": "processor-intel-core-i5-12600kf-s1700-37gbx8071512600kf-s-rl4u",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062446",
+            "materialSource": "ERP",
+            "modelName": "CORE I5-12600KF S1700 3.7G(BX8071512600KF S RL4U)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062446b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062446.jpg",
+                "Pdb/30062446b.jpg",
+                "Pdb/30062446s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "10",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "3700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "20 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8654,
+                    "name": "Кэш-память (L2)",
+                    "value": "9.5 МБ",
+                    "nameDescription": "Кэш-память второго уровня (L2) предназначена для работы с важной информацией, к которой процессор обращается несколько реже, чем к данным, хранящимся на L1. Объём этой памяти может составлять несколько сотен килобайт.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30063796",
+            "name": "Процессор Intel Core i7-11700 Box",
+            "nameTranslit": "processor-intel-core-i7-11700-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30063796",
+            "materialSource": "ERP",
+            "modelName": "i7 11700 2.5 GHz",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30063796b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30063796.jpg",
+                "Pdb/30063796b.jpg",
+                "Pdb/30063796s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "8",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "2500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "16 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30063797",
+            "name": "Процессор Intel Core i7-11700F Box",
+            "nameTranslit": "processor-intel-core-i7-11700f-box",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30063797",
+            "materialSource": "ERP",
+            "modelName": "i7-11700F 4.9 GHz",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30063797b.jpg",
+            "brandId": "2070",
+            "brandName": "Intel",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5440",
+                "name": "Процессоры"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30063797.jpg",
+                "Pdb/30063797b.jpg",
+                "Pdb/30063797s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 30852972,
+                    "name": "Количество ядер",
+                    "value": "8",
+                    "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 8645,
+                    "name": "Тактовая частота",
+                    "value": "2500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 8644,
+                    "name": "Кэш-память (L3)",
+                    "value": "16 МБ",
+                    "nameDescription": "Это самый медленный тип кэш-памяти, но всё равно она значительно быстрее, чем ОЗУ. Служит для хранения важных данных, но с приоритетом ниже, чем у информации на L1 и L2. Этот тип памяти общий для всех ядер процессора и позволяет им взаимодействовать между собой. Объём может составлять десятки мегабайт.",
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 8647,
+                    "name": "Частота в режиме Turbo",
+                    "value": "4900",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ]
+]

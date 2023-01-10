@@ -1,0 +1,4200 @@
+[
+    [
+        {
+            "productId": "30057285",
+            "name": "Материнская плата ASRock H510M-HDV",
+            "nameTranslit": "materinskaya-plata-asrock-h510m-hdv",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057285",
+            "materialSource": "ERP",
+            "modelName": "H510M-HDV",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057285b.jpg",
+            "brandId": "2211",
+            "brandName": "ASRock",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057285.jpg",
+                "Pdb/30057285b.jpg",
+                "Pdb/30057285b1.jpg",
+                "Pdb/30057285b2.jpg",
+                "Pdb/30057285s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065998",
+            "name": "Материнская плата GIGABYTE B660 AORUS MASTER DDR4",
+            "nameTranslit": "materinskaya-plata-gigabyte-b660-aorus-master-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065998",
+            "materialSource": "ERP",
+            "modelName": "B660 AORUS MASTER DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065998b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065998.jpg",
+                "Pdb/30065998b.jpg",
+                "Pdb/30065998b1.jpg",
+                "Pdb/30065998b2.jpg",
+                "Pdb/30065998b3.jpg",
+                "Pdb/30065998b4.jpg",
+                "Pdb/30065998s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066016",
+            "name": "Материнская плата MSI MAG X570S TORPEDO MAX",
+            "nameTranslit": "materinskaya-plata-msi-mag-x570s-torpedo-max",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066016",
+            "materialSource": "ERP",
+            "modelName": "MAG X570S TORPEDO MAX",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066016b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066016.jpg",
+                "Pdb/30066016b.jpg",
+                "Pdb/30066016b1.jpg",
+                "Pdb/30066016b2.jpg",
+                "Pdb/30066016b3.jpg",
+                "Pdb/30066016b4.jpg",
+                "Pdb/30066016s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "AM4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065994",
+            "name": "Материнская плата ASUS PRIME Z690M-PLUS D4",
+            "nameTranslit": "materinskaya-plata-asus-prime-z690m-plus-d4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065994",
+            "materialSource": "ERP",
+            "modelName": "PRIME Z690M-PLUS D4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065994b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065994.jpg",
+                "Pdb/30065994b.jpg",
+                "Pdb/30065994b1.jpg",
+                "Pdb/30065994b2.jpg",
+                "Pdb/30065994b3.jpg",
+                "Pdb/30065994b4.jpg",
+                "Pdb/30065994b5.jpg",
+                "Pdb/30065994s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065736",
+            "name": "Материнская плата ASUS ROG STRIX Z690-F GAMING WIFI",
+            "nameTranslit": "materinskaya-plata-asus-rog-strix-z690-f-gaming-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065736",
+            "materialSource": "ERP",
+            "modelName": "ROG STRIX Z690-F GAMING WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065736b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065736.jpg",
+                "Pdb/30065736b.jpg",
+                "Pdb/30065736b1.jpg",
+                "Pdb/30065736b2.jpg",
+                "Pdb/30065736b3.jpg",
+                "Pdb/30065736s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065739",
+            "name": "Материнская плата ASUS ROG MAXIMUS Z690 FORMULA",
+            "nameTranslit": "materinskaya-plata-asus-rog-maximus-z690-formula",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065739",
+            "materialSource": "ERP",
+            "modelName": "ROG MAXIMUS Z690 FORMULA",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065739b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065739.jpg",
+                "Pdb/30065739b.jpg",
+                "Pdb/30065739b1.jpg",
+                "Pdb/30065739b2.jpg",
+                "Pdb/30065739s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "3",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065734",
+            "name": "Материнская плата ASUS ROG STRIX B560-F GAMING WIFI",
+            "nameTranslit": "materinskaya-plata-asus-rog-strix-b560-f-gaming-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065734",
+            "materialSource": "ERP",
+            "modelName": "ROG STRIX B560-F GAMING WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065734b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065734.jpg",
+                "Pdb/30065734b.jpg",
+                "Pdb/30065734b1.jpg",
+                "Pdb/30065734b2.jpg",
+                "Pdb/30065734b3.jpg",
+                "Pdb/30065734b4.jpg",
+                "Pdb/30065734s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "3",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061076",
+            "name": "Материнская плата MSI H510M-A PRO",
+            "nameTranslit": "materinskaya-plata-msi-h510m-a-pro",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061076",
+            "materialSource": "ERP",
+            "modelName": "H510M-A PRO",
+            "rating": {
+                "star": 3,
+                "count": 2,
+                "percent": 61
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061076b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061076.jpg",
+                "Pdb/30061076b.jpg",
+                "Pdb/30061076b1.jpg",
+                "Pdb/30061076b2.jpg",
+                "Pdb/30061076s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065735",
+            "name": "Материнская плата ASUS PRIME Z690-A",
+            "nameTranslit": "materinskaya-plata-asus-prime-z690-a",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065735",
+            "materialSource": "ERP",
+            "modelName": "PRIME Z690-A",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065735b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065735.jpg",
+                "Pdb/30065735b.jpg",
+                "Pdb/30065735b1.jpg",
+                "Pdb/30065735b2.jpg",
+                "Pdb/30065735b3.jpg",
+                "Pdb/30065735b4.jpg",
+                "Pdb/30065735s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061916",
+            "name": "Материнская плата MSI Z590 S1200 ATX MPG Z590 GAMING EDGE WIFI",
+            "nameTranslit": "materinskaya-plata-msi-z590-s1200-atx-mpg-z590-gaming-edge-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061916",
+            "materialSource": "ERP",
+            "modelName": "Z590 S1200 ATX MPG Z590 GAMING EDGE WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061916b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061916.jpg",
+                "Pdb/30061916b.jpg",
+                "Pdb/30061916b1.jpg",
+                "Pdb/30061916b2.jpg",
+                "Pdb/30061916s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066001",
+            "name": "Материнская плата GIGABYTE Z690M DS3H DDR4",
+            "nameTranslit": "materinskaya-plata-gigabyte-z690m-ds3h-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066001",
+            "materialSource": "ERP",
+            "modelName": "Z690M DS3H DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066001b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066001.jpg",
+                "Pdb/30066001b.jpg",
+                "Pdb/30066001b1.jpg",
+                "Pdb/30066001b2.jpg",
+                "Pdb/30066001b3.jpg",
+                "Pdb/30066001b4.jpg",
+                "Pdb/30066001s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066011",
+            "name": "Материнская плата MSI PRO Z690-A DDR4",
+            "nameTranslit": "materinskaya-plata-msi-pro-z690-a-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066011",
+            "materialSource": "ERP",
+            "modelName": "PRO Z690-A DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066011b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066011.jpg",
+                "Pdb/30066011b.jpg",
+                "Pdb/30066011b1.jpg",
+                "Pdb/30066011b2.jpg",
+                "Pdb/30066011b3.jpg",
+                "Pdb/30066011b4.jpg",
+                "Pdb/30066011s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065991",
+            "name": "Материнская плата ASUS PROART Z690-CREATOR WIFI",
+            "nameTranslit": "materinskaya-plata-asus-proart-z690-creator-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065991",
+            "materialSource": "ERP",
+            "modelName": "PROART Z690-CREATOR WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065991b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065991.jpg",
+                "Pdb/30065991b.jpg",
+                "Pdb/30065991b1.jpg",
+                "Pdb/30065991b2.jpg",
+                "Pdb/30065991b3.jpg",
+                "Pdb/30065991b4.jpg",
+                "Pdb/30065991b5.jpg",
+                "Pdb/30065991s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "3",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065992",
+            "name": "Материнская плата ASUS TUF GAMING Z690-PLUS",
+            "nameTranslit": "materinskaya-plata-asus-tuf-gaming-z690-plus",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065992",
+            "materialSource": "ERP",
+            "modelName": "TUF GAMING Z690-PLUS",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065992b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065992.jpg",
+                "Pdb/30065992b.jpg",
+                "Pdb/30065992b1.jpg",
+                "Pdb/30065992b2.jpg",
+                "Pdb/30065992b3.jpg",
+                "Pdb/30065992b4.jpg",
+                "Pdb/30065992s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065995",
+            "name": "Материнская плата ASUS PRIME H610M-K D4",
+            "nameTranslit": "materinskaya-plata-asus-prime-h610m-k-d4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065995",
+            "materialSource": "ERP",
+            "modelName": "PRIME H610M-K D4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065995b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065995.jpg",
+                "Pdb/30065995b.jpg",
+                "Pdb/30065995b1.jpg",
+                "Pdb/30065995b2.jpg",
+                "Pdb/30065995b3.jpg",
+                "Pdb/30065995b4.jpg",
+                "Pdb/30065995b5.jpg",
+                "Pdb/30065995s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065999",
+            "name": "Материнская плата GIGABYTE Z690 AORUS ELITE DDR4",
+            "nameTranslit": "materinskaya-plata-gigabyte-z690-aorus-elite-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065999",
+            "materialSource": "ERP",
+            "modelName": "Z690 AORUS ELITE DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065999b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065999.jpg",
+                "Pdb/30065999b.jpg",
+                "Pdb/30065999b1.jpg",
+                "Pdb/30065999b2.jpg",
+                "Pdb/30065999b3.jpg",
+                "Pdb/30065999b4.jpg",
+                "Pdb/30065999s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062403",
+            "name": "Материнская плата MSI Z690 S1700 ATX PRO Z690-P DDR4",
+            "nameTranslit": "materinskaya-plata-msi-z690-s1700-atx-pro-z690-p-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062403",
+            "materialSource": "ERP",
+            "modelName": "Z690 S1700 ATX PRO Z690-P DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062403b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062403.jpg",
+                "Pdb/30062403b.jpg",
+                "Pdb/30062403b1.jpg",
+                "Pdb/30062403b2.jpg",
+                "Pdb/30062403s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062348",
+            "name": "Материнская плата MSI Z690 S1700 ATX MEG Z690 UNIFY",
+            "nameTranslit": "materinskaya-plata-msi-z690-s1700-atx-meg-z690-unify",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062348",
+            "materialSource": "ERP",
+            "modelName": "Z690 S1700 ATX MEG Z690 UNIFY",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062348b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062348.jpg",
+                "Pdb/30062348b.jpg",
+                "Pdb/30062348b1.jpg",
+                "Pdb/30062348b2.jpg",
+                "Pdb/30062348s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062349",
+            "name": "Материнская плата MSI Z690 S1700 ATX MEG Z690 UNIFY-X",
+            "nameTranslit": "materinskaya-plata-msi-z690-s1700-atx-meg-z690-unify-x",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062349",
+            "materialSource": "ERP",
+            "modelName": "Z690 S1700 ATX MEG Z690 UNIFY-X",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062349b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062349.jpg",
+                "Pdb/30062349b.jpg",
+                "Pdb/30062349b1.jpg",
+                "Pdb/30062349b2.jpg",
+                "Pdb/30062349s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065738",
+            "name": "Материнская плата ASUS TUF GAMING Z690-PLUS WIFI",
+            "nameTranslit": "materinskaya-plata-asus-tuf-gaming-z690-plus-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065738",
+            "materialSource": "ERP",
+            "modelName": "TUF GAMING Z690-PLUS WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065738b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065738.jpg",
+                "Pdb/30065738b.jpg",
+                "Pdb/30065738b1.jpg",
+                "Pdb/30065738b2.jpg",
+                "Pdb/30065738b3.jpg",
+                "Pdb/30065738b4.jpg",
+                "Pdb/30065738s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30063847",
+            "name": "Материнская плата MSI MEG Z590 GODLIKE",
+            "nameTranslit": "materinskaya-plata-msi-meg-z590-godlike",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30063847",
+            "materialSource": "ERP",
+            "modelName": "MEG Z590 GODLIKE",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30063847b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30063847.jpg",
+                "Pdb/30063847b.jpg",
+                "Pdb/30063847b1.jpg",
+                "Pdb/30063847b2.jpg",
+                "Pdb/30063847s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "M.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "LGA1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30063856",
+            "name": "Материнская плата MSI X299 PRO",
+            "nameTranslit": "materinskaya-plata-msi-x299-pro",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30063856",
+            "materialSource": "ERP",
+            "modelName": "X299 PRO",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30063856b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30063856.jpg",
+                "Pdb/30063856b.jpg",
+                "Pdb/30063856b1.jpg",
+                "Pdb/30063856b2.jpg",
+                "Pdb/30063856s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "M.2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "LGA2066",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "8",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057537",
+            "name": "Материнская плата GIGABYTE Z490 S1200 ATX (Z490 AORUS MASTER WF)",
+            "nameTranslit": "materinskaya-plata-gigabyte-z490-s1200-atx-z490-aorus-master-wf",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057537",
+            "materialSource": "ERP",
+            "modelName": "Z490 S1200 ATX (Z490 AORUS MASTER WF)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057537b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057537.jpg",
+                "Pdb/30057537b.jpg",
+                "Pdb/30057537b1.jpg",
+                "Pdb/30057537b2.jpg",
+                "Pdb/30057537b3.jpg",
+                "Pdb/30057537s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057283",
+            "name": "Материнская плата ASRock H470M-HDV",
+            "nameTranslit": "materinskaya-plata-asrock-h470m-hdv",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057283",
+            "materialSource": "ERP",
+            "modelName": "H470M-HDV",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057283b.jpg",
+            "brandId": "2211",
+            "brandName": "ASRock",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057283.jpg",
+                "Pdb/30057283b.jpg",
+                "Pdb/30057283b1.jpg",
+                "Pdb/30057283b2.jpg",
+                "Pdb/30057283s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ],
+    [
+        {
+            "productId": "30053250",
+            "name": "Материнская плата ASRock Z490 TAICHI",
+            "nameTranslit": "materinskaya-plata-asrock-z490-taichi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30053250",
+            "materialSource": "ERP",
+            "modelName": "Z490 TAICHI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30053250b.jpg",
+            "brandId": "2211",
+            "brandName": "ASRock",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30053250.jpg",
+                "Pdb/30053250b.jpg",
+                "Pdb/30053250b1.jpg",
+                "Pdb/30053250b2.jpg",
+                "Pdb/30053250s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066014",
+            "name": "Материнская плата MSI H510I PRO WIFI",
+            "nameTranslit": "materinskaya-plata-msi-h510i-pro-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066014",
+            "materialSource": "ERP",
+            "modelName": "H510I PRO WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066014b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066014.jpg",
+                "Pdb/30066014b.jpg",
+                "Pdb/30066014b1.jpg",
+                "Pdb/30066014b2.jpg",
+                "Pdb/30066014b4.jpg",
+                "Pdb/30066014b5.jpg",
+                "Pdb/30066014s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                },
+                {
+                    "id": 210,
+                    "name": "Поддержка Wi-Fi",
+                    "value": "a/b/g/n/ac/ax",
+                    "nameDescription": "Технология беспроводной локальной сети. Используется для выхода в интернет.\nВ настоящее время развивается целое семейство стандартов передачи цифровых потоков данных по радиоканалам.",
+                    "valueDescription": null,
+                    "priority": 13,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066017",
+            "name": "Материнская плата MSI MEG X570 UNIFY",
+            "nameTranslit": "materinskaya-plata-msi-meg-x570-unify",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066017",
+            "materialSource": "ERP",
+            "modelName": "MEG X570 UNIFY",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066017b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066017.jpg",
+                "Pdb/30066017b.jpg",
+                "Pdb/30066017b1.jpg",
+                "Pdb/30066017b2.jpg",
+                "Pdb/30066017b3.jpg",
+                "Pdb/30066017b4.jpg",
+                "Pdb/30066017s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "AM4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066022",
+            "name": "Материнская плата MSI MPG Z490 GAMING EDGE WIFI",
+            "nameTranslit": "materinskaya-plata-msi-mpg-z490-gaming-edge-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066022",
+            "materialSource": "ERP",
+            "modelName": "MPG Z490 GAMING EDGE WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066022b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066022.jpg",
+                "Pdb/30066022b.jpg",
+                "Pdb/30066022b1.jpg",
+                "Pdb/30066022b2.jpg",
+                "Pdb/30066022b3.jpg",
+                "Pdb/30066022b4.jpg",
+                "Pdb/30066022s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8639,
+                    "name": "PCI-Express 3.0 x16",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066006",
+            "name": "Материнская плата MSI MEG Z690 ACE",
+            "nameTranslit": "materinskaya-plata-msi-meg-z690-ace",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066006",
+            "materialSource": "ERP",
+            "modelName": "MEG Z690 ACE",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066006b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066006.jpg",
+                "Pdb/30066006b.jpg",
+                "Pdb/30066006b1.jpg",
+                "Pdb/30066006b2.jpg",
+                "Pdb/30066006b3.jpg",
+                "Pdb/30066006b4.jpg",
+                "Pdb/30066006s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "3",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066008",
+            "name": "Материнская плата MSI MPG Z590 GAMING FORCE",
+            "nameTranslit": "materinskaya-plata-msi-mpg-z590-gaming-force",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066008",
+            "materialSource": "ERP",
+            "modelName": "MPG Z590 GAMING FORCE",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066008b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066008.jpg",
+                "Pdb/30066008b.jpg",
+                "Pdb/30066008b1.jpg",
+                "Pdb/30066008b2.jpg",
+                "Pdb/30066008b3.jpg",
+                "Pdb/30066008b4.jpg",
+                "Pdb/30066008s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065990",
+            "name": "Материнская плата ASUS TUF GAMING Z690-PLUS WIFI D4",
+            "nameTranslit": "materinskaya-plata-asus-tuf-gaming-z690-plus-wifi-d4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065990",
+            "materialSource": "ERP",
+            "modelName": "TUF GAMING Z690-PLUS WIFI D4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065990b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065990.jpg",
+                "Pdb/30065990b.jpg",
+                "Pdb/30065990b1.jpg",
+                "Pdb/30065990b2.jpg",
+                "Pdb/30065990b3.jpg",
+                "Pdb/30065990b4.jpg",
+                "Pdb/30065990b5.jpg",
+                "Pdb/30065990s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065996",
+            "name": "Материнская плата ASUS PRIME Z590-A",
+            "nameTranslit": "materinskaya-plata-asus-prime-z590-a",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065996",
+            "materialSource": "ERP",
+            "modelName": "PRIME Z590-A",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065996b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065996.jpg",
+                "Pdb/30065996b.jpg",
+                "Pdb/30065996b1.jpg",
+                "Pdb/30065996b2.jpg",
+                "Pdb/30065996b3.jpg",
+                "Pdb/30065996b4.jpg",
+                "Pdb/30065996s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "3",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062334",
+            "name": "Материнская плата GIGABYTE Z690 AORUS ULTRA",
+            "nameTranslit": "materinskaya-plata-gigabyte-z690-aorus-ultra",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062334",
+            "materialSource": "ERP",
+            "modelName": "Z690 AORUS ULTRA",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062334b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062334.jpg",
+                "Pdb/30062334b.jpg",
+                "Pdb/30062334b1.jpg",
+                "Pdb/30062334b2.jpg",
+                "Pdb/30062334s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062347",
+            "name": "Материнская плата MSI Z690 S1700 MITX MEG Z690I UNIFY",
+            "nameTranslit": "materinskaya-plata-msi-z690-s1700-mitx-meg-z690i-unify",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062347",
+            "materialSource": "ERP",
+            "modelName": "Z690 S1700 MITX MEG Z690I UNIFY",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062347b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062347.jpg",
+                "Pdb/30062347b.jpg",
+                "Pdb/30062347b1.jpg",
+                "Pdb/30062347b2.jpg",
+                "Pdb/30062347s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Mini-ITX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062744",
+            "name": "Материнская плата GIGABYTE Z690 UD DDR4",
+            "nameTranslit": "materinskaya-plata-gigabyte-z690-ud-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062744",
+            "materialSource": "ERP",
+            "modelName": "Z690 UD DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062744b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062744.jpg",
+                "Pdb/30062744b.jpg",
+                "Pdb/30062744b1.jpg",
+                "Pdb/30062744b2.jpg",
+                "Pdb/30062744s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062114",
+            "name": "Материнская плата GIGABYTE H510 S1200 MATX H410M S2H V3 1.1",
+            "nameTranslit": "materinskaya-plata-gigabyte-h510-s1200-matx-h410m-s2h-v3-11",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062114",
+            "materialSource": "ERP",
+            "modelName": "H510 S1200 MATX H410M S2H V3 1.1",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062114b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062114.jpg",
+                "Pdb/30062114b.jpg",
+                "Pdb/30062114b1.jpg",
+                "Pdb/30062114b2.jpg",
+                "Pdb/30062114s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065733",
+            "name": "Материнская плата ASUS PRO H610M-C D4-CSM",
+            "nameTranslit": "materinskaya-plata-asus-pro-h610m-c-d4-csm",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065733",
+            "materialSource": "ERP",
+            "modelName": "PRO H610M-C D4-CSM",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065733b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065733.jpg",
+                "Pdb/30065733b.jpg",
+                "Pdb/30065733b1.jpg",
+                "Pdb/30065733b2.jpg",
+                "Pdb/30065733b3.jpg",
+                "Pdb/30065733b4.jpg",
+                "Pdb/30065733b5.jpg",
+                "Pdb/30065733s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "2",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                },
+                {
+                    "id": 5841,
+                    "name": "PCI",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065737",
+            "name": "Материнская плата ASUS ROG STRIX Z590-E GAMING WIFI",
+            "nameTranslit": "materinskaya-plata-asus-rog-strix-z590-e-gaming-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065737",
+            "materialSource": "ERP",
+            "modelName": "ROG STRIX Z590-E GAMING WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065737b.jpg",
+            "brandId": "455",
+            "brandName": "ASUS",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065737.jpg",
+                "Pdb/30065737b.jpg",
+                "Pdb/30065737b1.jpg",
+                "Pdb/30065737b2.jpg",
+                "Pdb/30065737b3.jpg",
+                "Pdb/30065737s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "3",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                },
+                {
+                    "id": 210,
+                    "name": "Поддержка Wi-Fi",
+                    "value": "a/b/g/n/ac/ax",
+                    "nameDescription": "Технология беспроводной локальной сети. Используется для выхода в интернет.\nВ настоящее время развивается целое семейство стандартов передачи цифровых потоков данных по радиоканалам.",
+                    "valueDescription": null,
+                    "priority": 13,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061144",
+            "name": "Материнская плата MSI B560M PRO",
+            "nameTranslit": "materinskaya-plata-msi-b560m-pro",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061144",
+            "materialSource": "ERP",
+            "modelName": "B560M PRO",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061144b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061144.jpg",
+                "Pdb/30061144b.jpg",
+                "Pdb/30061144b1.jpg",
+                "Pdb/30061144s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "LGA1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30060684",
+            "name": "Материнская плата ASRock Z590M PRO4",
+            "nameTranslit": "materinskaya-plata-asrock-z590m-pro4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30060684",
+            "materialSource": "ERP",
+            "modelName": "Z590M PRO4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30060684b.jpg",
+            "brandId": "2211",
+            "brandName": "ASRock",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30060684.jpg",
+                "Pdb/30060684b.jpg",
+                "Pdb/30060684b1.jpg",
+                "Pdb/30060684b2.jpg",
+                "Pdb/30060684s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061915",
+            "name": "Материнская плата MSI Z590 S1200 ATX Z590 PRO WIFI",
+            "nameTranslit": "materinskaya-plata-msi-z590-s1200-atx-z590-pro-wifi",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061915",
+            "materialSource": "ERP",
+            "modelName": "Z590 S1200 ATX Z590 PRO WIFI",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061915b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061915.jpg",
+                "Pdb/30061915b.jpg",
+                "Pdb/30061915b1.jpg",
+                "Pdb/30061915b2.jpg",
+                "Pdb/30061915s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061914",
+            "name": "Материнская плата MSI MEG Z490I UNIFY",
+            "nameTranslit": "materinskaya-plata-msi-meg-z490i-unify",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061914",
+            "materialSource": "ERP",
+            "modelName": "MEG Z490I UNIFY",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061914b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061914.jpg",
+                "Pdb/30061914b.jpg",
+                "Pdb/30061914b1.jpg",
+                "Pdb/30061914b2.jpg",
+                "Pdb/30061914s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 8254,
+                    "name": "Поддержка RAID",
+                    "value": "0. 1. 5. 10",
+                    "nameDescription": "Технология виртуализации данных, которая объединяет несколько дисков в логический элемент для повышения производительности.",
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 8902,
+                    "name": "PCI-E M.2",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Mini-ITX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1200",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066000",
+            "name": "Материнская плата GIGABYTE H610M H DDR4",
+            "nameTranslit": "materinskaya-plata-gigabyte-h610m-h-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066000",
+            "materialSource": "ERP",
+            "modelName": "H610M H DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066000b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066000.jpg",
+                "Pdb/30066000b.jpg",
+                "Pdb/30066000b1.jpg",
+                "Pdb/30066000b2.jpg",
+                "Pdb/30066000b3.jpg",
+                "Pdb/30066000b4.jpg",
+                "Pdb/30066000s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066010",
+            "name": "Материнская плата MSI PRO H610M-E DDR4",
+            "nameTranslit": "materinskaya-plata-msi-pro-h610m-e-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066010",
+            "materialSource": "ERP",
+            "modelName": "PRO H610M-E DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066010b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066010.jpg",
+                "Pdb/30066010b.jpg",
+                "Pdb/30066010b1.jpg",
+                "Pdb/30066010b2.jpg",
+                "Pdb/30066010b3.jpg",
+                "Pdb/30066010b4.jpg",
+                "Pdb/30066010s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066020",
+            "name": "Материнская плата MSI PRO B660M-G DDR4",
+            "nameTranslit": "materinskaya-plata-msi-pro-b660m-g-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066020",
+            "materialSource": "ERP",
+            "modelName": "PRO B660M-G DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066020b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066020.jpg",
+                "Pdb/30066020b.jpg",
+                "Pdb/30066020b1.jpg",
+                "Pdb/30066020b2.jpg",
+                "Pdb/30066020b3.jpg",
+                "Pdb/30066020s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                },
+                {
+                    "id": 6585,
+                    "name": "PCI-Express x16",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 16 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30066002",
+            "name": "Материнская плата GIGABYTE H610M S2H DDR4",
+            "nameTranslit": "materinskaya-plata-gigabyte-h610m-s2h-ddr4",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30066002",
+            "materialSource": "ERP",
+            "modelName": "H610M S2H DDR4",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": "VC",
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30066002b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5441",
+                "name": "Материнские платы"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30066002.jpg",
+                "Pdb/30066002b.jpg",
+                "Pdb/30066002b1.jpg",
+                "Pdb/30066002b2.jpg",
+                "Pdb/30066002b3.jpg",
+                "Pdb/30066002b4.jpg",
+                "Pdb/30066002s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 6594,
+                    "name": "Форм-фактор",
+                    "value": "Micro-ATX",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2092,
+                    "name": "Сокет",
+                    "value": "1700",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 633,
+                    "name": "Тип памяти",
+                    "value": "DDR4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 805,
+                    "name": "Количество слотов памяти",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 8634,
+                    "name": "PCI-Express x1",
+                    "value": "1",
+                    "nameDescription": "Компьютерная шина с двухточечным доступом (в отличие от последовательного у PCI), которая позволила ускорить работу подключаемых к слотам компонентов (аудио-, видео-, сетевых карт), обеспечив им пропускную способность до 1 Гбит/с.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ]
+]

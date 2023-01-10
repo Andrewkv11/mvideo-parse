@@ -1,0 +1,3321 @@
+[
+    [
+        {
+            "productId": "30065820",
+            "name": "Видеокарта Zotac GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming",
+            "nameTranslit": "videokarta-zotac-geforce-gtx-1650-oc-4gb-gddr6-128-bit-gaming",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065820",
+            "materialSource": "ERP",
+            "modelName": "GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming",
+            "rating": {
+                "star": 4,
+                "count": 1,
+                "percent": 81
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065820b.jpg",
+            "brandId": "6498",
+            "brandName": "Zotac",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065820.jpg",
+                "Pdb/30065820b.jpg",
+                "Pdb/30065820b1.jpg",
+                "Pdb/30065820b2.jpg",
+                "Pdb/30065820b3.jpg",
+                "Pdb/30065820b4.jpg",
+                "Pdb/30065820b5.jpg",
+                "Pdb/30065820s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "4 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "896",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1620",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2389,
+                    "name": "Выход DVI",
+                    "value": "1",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064150",
+            "name": "Видеокарта MSI GeForce RTX 3070 VENTUS 3X OC",
+            "nameTranslit": "videokarta-msi-geforce-rtx-3070-ventus-3x-oc",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064150",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 3070 Ventus 3X 8G GDDR6 256B PCIE",
+            "rating": {
+                "star": 5,
+                "count": 14,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064150b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064150.jpg",
+                "Pdb/30064150b.jpg",
+                "Pdb/30064150s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "5888",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "14000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065822",
+            "name": "Видеокарта Zotac GeForce RTX 3070TI Trinity OC 8GB GDDR6X LHR",
+            "nameTranslit": "videokarta-zotac-geforce-rtx-3070ti-trinity-oc-8gb-gddr6x-lhr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065822",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 3070TI Trinity OC 8GB GDDR6X LHR",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065822b.jpg",
+            "brandId": "6498",
+            "brandName": "Zotac",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065822.jpg",
+                "Pdb/30065822b.jpg",
+                "Pdb/30065822b1.jpg",
+                "Pdb/30065822b2.jpg",
+                "Pdb/30065822b3.jpg",
+                "Pdb/30065822b4.jpg",
+                "Pdb/30065822b5.jpg",
+                "Pdb/30065822s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "6144",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1800",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400049861",
+            "name": "Видеокарта GIGABYTE GeForce RTX 4080 GAMING OC 16GB",
+            "nameTranslit": "videokarta-gigabyte-geforce-rtx-4080-gaming-oc-16gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400049861",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4080 GAMING OC 16GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400049861b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400049861.jpg",
+                "Pdb/400049861b.jpg",
+                "Pdb/400049861s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "16 Гб",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "9728",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2205",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "22400",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400049860",
+            "name": "Видеокарта GIGABYTE GeForce RTX 4080 EAGLE OC 16GB",
+            "nameTranslit": "videokarta-gigabyte-geforce-rtx-4080-eagle-oc-16gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400049860",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4080 EAGLE OC 16GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400049860b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400049860.jpg",
+                "Pdb/400049860b.jpg",
+                "Pdb/400049860s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "16 Гб",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "9728",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2205",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "22400",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400049858",
+            "name": "Видеокарта Palit GeForce RTX 4080 GAMEROCK OMNIBLACK 16GB",
+            "nameTranslit": "videokarta-palit-geforce-rtx-4080-gamerock-omniblack-16gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400049858",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4080 GAMEROCK OMNIBLACK 16GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400049858b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400049858.jpg",
+                "Pdb/400049858b.jpg",
+                "Pdb/400049858b1.jpg",
+                "Pdb/400049858b2.jpg",
+                "Pdb/400049858s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "16 Гб",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "9728",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2205",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "22400",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065819",
+            "name": "Видеокарта XFX Radeon RX 6600 XT SPEEDSTER Swift 210 8GB GDDR6",
+            "nameTranslit": "videokarta-xfx-radeon-rx-6600-xt-speedster-swift-210-8gb-gddr6",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065819",
+            "materialSource": "ERP",
+            "modelName": "Radeon RX 6600 XT SPEEDSTER Swift 210 8GB GDDR6",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065819b.jpg",
+            "brandId": "9008",
+            "brandName": "XFX",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065819.jpg",
+                "Pdb/30065819b.jpg",
+                "Pdb/30065819b1.jpg",
+                "Pdb/30065819b2.jpg",
+                "Pdb/30065819b3.jpg",
+                "Pdb/30065819b4.jpg",
+                "Pdb/30065819b5.jpg",
+                "Pdb/30065819s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "2048",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2589",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065817",
+            "name": "Видеокарта PNY GeForce RTX 3070 8GB Dual Fan",
+            "nameTranslit": "videokarta-pny-geforce-rtx-3070-8gb-dual-fan",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065817",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 3070 8GB Dual Fan",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065817b.jpg",
+            "brandId": "2024",
+            "brandName": "PNY",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065817.jpg",
+                "Pdb/30065817b.jpg",
+                "Pdb/30065817b1.jpg",
+                "Pdb/30065817b2.jpg",
+                "Pdb/30065817b3.jpg",
+                "Pdb/30065817b4.jpg",
+                "Pdb/30065817b5.jpg",
+                "Pdb/30065817s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "5888",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1725",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065824",
+            "name": "Видеокарта Zotac GeForce RTX 2060 Gaming AMP 6GB GDDR6 192bit",
+            "nameTranslit": "videokarta-zotac-geforce-rtx-2060-gaming-amp-6gb-gddr6-192bit",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065824",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 2060 Gaming AMP 6GB GDDR6 192bit",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065824b.jpg",
+            "brandId": "6498",
+            "brandName": "Zotac",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065824.jpg",
+                "Pdb/30065824b.jpg",
+                "Pdb/30065824b1.jpg",
+                "Pdb/30065824b2.jpg",
+                "Pdb/30065824b3.jpg",
+                "Pdb/30065824b4.jpg",
+                "Pdb/30065824b5.jpg",
+                "Pdb/30065824s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "6 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "1920",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1800",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400050472",
+            "name": "Видеокарта Palit GeForce RTX 4090 GAMEROCK 24GB",
+            "nameTranslit": "videokarta-palit-geforce-rtx-4090-gamerock-24gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400050472",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4090 GAMEROCK 24GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400050472b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400050472.jpg",
+                "Pdb/400050472b.jpg",
+                "Pdb/400050472b1.jpg",
+                "Pdb/400050472b2.jpg",
+                "Pdb/400050472b3.jpg",
+                "Pdb/400050472b4.jpg",
+                "Pdb/400050472s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "24 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "16384",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2235",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "21000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061285",
+            "name": "Видеокарта MSI PCIE16 GT730 4GB DDR3",
+            "nameTranslit": "videokarta-msi-pcie16-gt730-4gb-ddr3",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061285",
+            "materialSource": "ERP",
+            "modelName": "PCIE16 GT730 4GB DDR3",
+            "rating": {
+                "star": 5,
+                "count": 4,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061285b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061285.jpg",
+                "Pdb/30061285b.jpg",
+                "Pdb/30061285b1.jpg",
+                "Pdb/30061285s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "4 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "DDR3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "96",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "750",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "1600",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061173",
+            "name": "Видеокарта MSI N730K-2GD3/LP",
+            "nameTranslit": "videokarta-msi-n730k-2gd3-lp",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061173",
+            "materialSource": "ERP",
+            "modelName": "N730K-2GD3/LP",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061173b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061173.jpg",
+                "Pdb/30061173b.jpg",
+                "Pdb/30061173b1.jpg",
+                "Pdb/30061173b2.jpg",
+                "Pdb/30061173b3.jpg",
+                "Pdb/30061173s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "2 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "DDR3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "384",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "902",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "1600",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30063778",
+            "name": "Видеокарта GIGABYTE GeForce RTX 3060 EAGLE OC 12G (rev. 2.0)",
+            "nameTranslit": "videokarta-gigabyte-geforce-rtx-3060-eagle-oc-12g-rev-20",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30063778",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX3060 12GB GDDR6 192-Bit PCI-Exps  ATX",
+            "rating": {
+                "star": 5,
+                "count": 7,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30063778b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30063778.jpg",
+                "Pdb/30063778b.jpg",
+                "Pdb/30063778b1.jpg",
+                "Pdb/30063778b2.jpg",
+                "Pdb/30063778b3.jpg",
+                "Pdb/30063778b4.jpg",
+                "Pdb/30063778b5.jpg",
+                "Pdb/30063778s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "3584",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1807",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "15000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065816",
+            "name": "Видеокарта PNY GeForce RTX 3070 Ti 8GB XLR8 Gaming UPRISING Edition",
+            "nameTranslit": "videokarta-pny-geforce-rtx-3070-ti-8gb-xlr8-gaming-uprising-edition",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065816",
+            "materialSource": "ERP",
+            "modelName": "GEFORCE RTX 3070 Ti 8GB XLR8 Gaming UPRISING Edit",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065816b.jpg",
+            "brandId": "2024",
+            "brandName": "PNY",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065816.jpg",
+                "Pdb/30065816b.jpg",
+                "Pdb/30065816b1.jpg",
+                "Pdb/30065816b2.jpg",
+                "Pdb/30065816b3.jpg",
+                "Pdb/30065816b4.jpg",
+                "Pdb/30065816s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "6144",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1770",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400049760",
+            "name": "Видеокарта Zotac GeForce RTX 4090 TRINITY OC 24GB",
+            "nameTranslit": "videokarta-zotac-geforce-rtx-4090-trinity-oc-24gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400049760",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4090 TRINITY OC 24GB",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400049760b.jpg",
+            "brandId": "6498",
+            "brandName": "Zotac",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400049760.jpg",
+                "Pdb/400049760b.jpg",
+                "Pdb/400049760b1.jpg",
+                "Pdb/400049760b2.jpg",
+                "Pdb/400049760b3.jpg",
+                "Pdb/400049760b4.jpg",
+                "Pdb/400049760b5.jpg",
+                "Pdb/400049760b6.jpg",
+                "Pdb/400049760s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "24 Гб",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "16384",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2535",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "21000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30032095",
+            "name": "Видеокарта MSI GeForce GT 730 2GB Silent LP",
+            "nameTranslit": "videokarta-msi-geforce-gt-730-2gb-silent-lp",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30032095",
+            "materialSource": "ERP",
+            "modelName": "GeForce GT 730 2GB Silent LP",
+            "rating": {
+                "star": 4.5,
+                "count": 2,
+                "percent": 91
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30032095b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30032095.jpg",
+                "Pdb/30032095b.jpg",
+                "Pdb/30032095s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "2 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "DDR3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "384",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "902",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "1600",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400049758",
+            "name": "Видеокарта Zotac GeForce RTX 4090 AMP EXTREME AIRO 24GB",
+            "nameTranslit": "videokarta-zotac-geforce-rtx-4090-amp-extreme-airo-24gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400049758",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4090 AMP EXTREME AIRO 24GB",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400049758b.jpg",
+            "brandId": "6498",
+            "brandName": "Zotac",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400049758.jpg",
+                "Pdb/400049758b.jpg",
+                "Pdb/400049758b1.jpg",
+                "Pdb/400049758b2.jpg",
+                "Pdb/400049758b3.jpg",
+                "Pdb/400049758b4.jpg",
+                "Pdb/400049758b5.jpg",
+                "Pdb/400049758b6.jpg",
+                "Pdb/400049758s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "24 Гб",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "16384",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2580",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "21000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30055280",
+            "name": "Видеокарта GIGABYTE GV-N3070GAMING OC-8GD",
+            "nameTranslit": "videokarta-gigabyte-gv-n3070gaming-oc-8gd",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30055280",
+            "materialSource": "ERP",
+            "modelName": "GV-N3070GAMING OC-8GD",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30055280b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30055280.jpg",
+                "Pdb/30055280b.jpg",
+                "Pdb/30055280b1.jpg",
+                "Pdb/30055280b2.jpg",
+                "Pdb/30055280b3.jpg",
+                "Pdb/30055280b4.jpg",
+                "Pdb/30055280b5.jpg",
+                "Pdb/30055280s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "14000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 4.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "2",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                },
+                {
+                    "id": 2147,
+                    "name": "DisplayPort",
+                    "value": "2",
+                    "nameDescription": "Порт для передачи видеосигнала. Служит для подключения монитора или проектора.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061284",
+            "name": "Видеокарта MSI PCIE16 GT210 1GB GDDR3",
+            "nameTranslit": "videokarta-msi-pcie16-gt210-1gb-gddr3",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061284",
+            "materialSource": "ERP",
+            "modelName": "PCIE16 GT210 1GB GDDR3",
+            "rating": {
+                "star": 5,
+                "count": 4,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061284b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061284.jpg",
+                "Pdb/30061284b.jpg",
+                "Pdb/30061284b1.jpg",
+                "Pdb/30061284b2.jpg",
+                "Pdb/30061284b3.jpg",
+                "Pdb/30061284s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "1 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "DDR3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "16",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "589",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "800",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064151",
+            "name": "Видеокарта MSI GeForce RTX 3080 VENTUS 3X PLUS 12G OC LHR",
+            "nameTranslit": "videokarta-msi-geforce-rtx-3080-ventus-3x-plus-12g-oc-lhr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064151",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 3080 Ventus 3X 12G GDDR6X",
+            "rating": {
+                "star": 5,
+                "count": 7,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064151b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064151.jpg",
+                "Pdb/30064151b.jpg",
+                "Pdb/30064151b1.jpg",
+                "Pdb/30064151b2.jpg",
+                "Pdb/30064151b3.jpg",
+                "Pdb/30064151b4.jpg",
+                "Pdb/30064151b5.jpg",
+                "Pdb/30064151s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "8960",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1740",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057332",
+            "name": "Видеокарта GIGABYTE GeForce RTX 2060 6GB",
+            "nameTranslit": "videokarta-gigabyte-geforce-rtx-2060-6gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057332",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 2060 6GB",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057332b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057332.jpg",
+                "Pdb/30057332b.jpg",
+                "Pdb/30057332b1.jpg",
+                "Pdb/30057332b2.jpg",
+                "Pdb/30057332b3.jpg",
+                "Pdb/30057332b4.jpg",
+                "Pdb/30057332b5.jpg",
+                "Pdb/30057332s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "6 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 3.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                },
+                {
+                    "id": 2147,
+                    "name": "DisplayPort",
+                    "value": "3",
+                    "nameDescription": "Порт для передачи видеосигнала. Служит для подключения монитора или проектора.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30063779",
+            "name": "Видеокарта MSI GeForce RTX 3060 Ti Gaming X 8G LHR",
+            "nameTranslit": "videokarta-msi-geforce-rtx-3060-ti-gaming-x-8g-lhr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30063779",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 3060 Ti Gaming X 8G LHR 8GB GDDR6",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30063779b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30063779.jpg",
+                "Pdb/30063779b.jpg",
+                "Pdb/30063779s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "4864",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1410",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "14000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30058222",
+            "name": "Видеокарта GIGABYTE AORUS GeForce RTX 3080 Ti MASTER 12GВ",
+            "nameTranslit": "videokarta-gigabyte-aorus-geforce-rtx-3080-ti-master-12gv",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30058222",
+            "materialSource": "ERP",
+            "modelName": "AORUS GeForce RTX 3080 Ti MASTER 12GВ",
+            "rating": {
+                "star": 5,
+                "count": 12,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30058222b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30058222.jpg",
+                "Pdb/30058222b.jpg",
+                "Pdb/30058222b1.jpg",
+                "Pdb/30058222b2.jpg",
+                "Pdb/30058222b3.jpg",
+                "Pdb/30058222b4.jpg",
+                "Pdb/30058222b5.jpg",
+                "Pdb/30058222b6.jpg",
+                "Pdb/30058222b7.jpg",
+                "Pdb/30058222s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1770",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 4.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061072",
+            "name": "Видеокарта MSI RTX 3070TI VENTUS 3X OC 8GB LHR",
+            "nameTranslit": "videokarta-msi-rtx-3070ti-ventus-3x-oc-8gb-lhr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061072",
+            "materialSource": "ERP",
+            "modelName": "PCIE16 RTX 3070TI VENTUS 3X 8G OC 8GB",
+            "rating": {
+                "star": 5,
+                "count": 4,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061072b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061072.jpg",
+                "Pdb/30061072b.jpg",
+                "Pdb/30061072b1.jpg",
+                "Pdb/30061072b2.jpg",
+                "Pdb/30061072b3.jpg",
+                "Pdb/30061072b4.jpg",
+                "Pdb/30061072b5.jpg",
+                "Pdb/30061072b6.jpg",
+                "Pdb/30061072s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "6144",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1770",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ],
+    [
+        {
+            "productId": "30059897",
+            "name": "Видеокарта GIGABYTE PCIE16 RTX3060TI 8GB LHR",
+            "nameTranslit": "videokarta-gigabyte-pcie16-rtx3060ti-8gb-lhr",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30059897",
+            "materialSource": "ERP",
+            "modelName": "PCIE16 RTX3060TI 8GB LHR",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30059897b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30059897.jpg",
+                "Pdb/30059897b.jpg",
+                "Pdb/30059897b1.jpg",
+                "Pdb/30059897b2.jpg",
+                "Pdb/30059897b3.jpg",
+                "Pdb/30059897b4.jpg",
+                "Pdb/30059897b5.jpg",
+                "Pdb/30059897b6.jpg",
+                "Pdb/30059897b7.jpg",
+                "Pdb/30059897s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "4 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1410",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "1410",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 3.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061961",
+            "name": "Видеокарта Palit RTX3080 12GB LHR GamingPro",
+            "nameTranslit": "videokarta-palit-rtx3080-12gb-lhr-gamingpro",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061961",
+            "materialSource": "ERP",
+            "modelName": "PCIE16 RTX3080 12GB LHR GamingPro",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061961b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061961.jpg",
+                "Pdb/30061961b.jpg",
+                "Pdb/30061961b1.jpg",
+                "Pdb/30061961b2.jpg",
+                "Pdb/30061961b3.jpg",
+                "Pdb/30061961s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "8960",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1365",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30061921",
+            "name": "Видеокарта GIGABYTE PCIE16 RTX3050 8GB GDDR6 GV-N3050GAMING OC-8GD",
+            "nameTranslit": "videokarta-gigabyte-pcie16-rtx3050-8gb-gddr6-gv-n3050gaming-oc-8gd",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30061921",
+            "materialSource": "ERP",
+            "modelName": "PCIE16 RTX3050 8GB GDDR6 GV-N3050GAMING OC-8GD",
+            "rating": {
+                "star": 5,
+                "count": 2,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30061921b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30061921.jpg",
+                "Pdb/30061921b.jpg",
+                "Pdb/30061921b1.jpg",
+                "Pdb/30061921b2.jpg",
+                "Pdb/30061921b3.jpg",
+                "Pdb/30061921b4.jpg",
+                "Pdb/30061921b5.jpg",
+                "Pdb/30061921b6.jpg",
+                "Pdb/30061921s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "2560",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "2",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                },
+                {
+                    "id": 2147,
+                    "name": "DisplayPort",
+                    "value": "2",
+                    "nameDescription": "Порт для передачи видеосигнала. Служит для подключения монитора или проектора.",
+                    "valueDescription": null,
+                    "priority": 10,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30056335",
+            "name": "Видеокарта GIGABYTE Radeon RX 6700 XT GAMING OC 12G",
+            "nameTranslit": "videokarta-gigabyte-radeon-rx-6700-xt-gaming-oc-12g",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30056335",
+            "materialSource": "ERP",
+            "modelName": "Radeon RX 6700 XT GAMING OC 12G",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": 101
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30056335b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30056335.jpg",
+                "Pdb/30056335b.jpg",
+                "Pdb/30056335b1.jpg",
+                "Pdb/30056335b2.jpg",
+                "Pdb/30056335b3.jpg",
+                "Pdb/30056335b4.jpg",
+                "Pdb/30056335b5.jpg",
+                "Pdb/30056335b6.jpg",
+                "Pdb/30056335s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2514",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "16000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 4.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057855",
+            "name": "Видеокарта Palit RTX3080Ti GameRock 12GB",
+            "nameTranslit": "videokarta-palit-rtx3080ti-gamerock-12gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057855",
+            "materialSource": "ERP",
+            "modelName": "RTX3080Ti GameRock 12GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057855b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057855.jpg",
+                "Pdb/30057855b.jpg",
+                "Pdb/30057855b1.jpg",
+                "Pdb/30057855b2.jpg",
+                "Pdb/30057855b3.jpg",
+                "Pdb/30057855b4.jpg",
+                "Pdb/30057855b5.jpg",
+                "Pdb/30057855s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "10240",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1365",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057805",
+            "name": "Видеокарта Palit GeForce RTX 3080 Ti GamingPro 12G",
+            "nameTranslit": "videokarta-palit-geforce-rtx-3080-ti-gamingpro-12g",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057805",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 3080 Ti GamingPro 12G",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057805b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057805.jpg",
+                "Pdb/30057805b.jpg",
+                "Pdb/30057805b1.jpg",
+                "Pdb/30057805b2.jpg",
+                "Pdb/30057805b3.jpg",
+                "Pdb/30057805b4.jpg",
+                "Pdb/30057805b5.jpg",
+                "Pdb/30057805b6.jpg",
+                "Pdb/30057805b7.jpg",
+                "Pdb/30057805s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "10240",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1665",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30057327",
+            "name": "Видеокарта GIGABYTE Aorus GeForce RTX 3080 MASTER 10GB",
+            "nameTranslit": "videokarta-gigabyte-aorus-geforce-rtx-3080-master-10gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30057327",
+            "materialSource": "ERP",
+            "modelName": "Aorus GeForce RTX 3080 MASTER 10GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30057327b.jpg",
+            "brandId": "1018",
+            "brandName": "GIGABYTE",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30057327.jpg",
+                "Pdb/30057327b.jpg",
+                "Pdb/30057327b1.jpg",
+                "Pdb/30057327b2.jpg",
+                "Pdb/30057327b3.jpg",
+                "Pdb/30057327b4.jpg",
+                "Pdb/30057327b5.jpg",
+                "Pdb/30057327b6.jpg",
+                "Pdb/30057327s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "10 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1845",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 4.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30064152",
+            "name": "Видеокарта MSI Radeon RX 6700 XT MECH 2X 12G",
+            "nameTranslit": "videokarta-msi-radeon-rx-6700-xt-mech-2x-12g",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30064152",
+            "materialSource": "ERP",
+            "modelName": "Radeon RX6700-XT-MECH-2X",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30064152b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30064152.jpg",
+                "Pdb/30064152b.jpg",
+                "Pdb/30064152s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "12 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "2560",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2321",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "16000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30056549",
+            "name": "Видеокарта Palit PA-RTX2060 Dual 6G",
+            "nameTranslit": "videokarta-palit-pa-rtx2060-dual-6g",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30056549",
+            "materialSource": "ERP",
+            "modelName": "PA-RTX2060 Dual 6G",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30056549b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30056549.jpg",
+                "Pdb/30056549b.jpg",
+                "Pdb/30056549b1.jpg",
+                "Pdb/30056549b2.jpg",
+                "Pdb/30056549b3.jpg",
+                "Pdb/30056549b4.jpg",
+                "Pdb/30056549b5.jpg",
+                "Pdb/30056549s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "6 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1365",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "14000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 2388,
+                    "name": "Интерфейс",
+                    "value": "PCI Express 3.0",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30062435",
+            "name": "Видеокарта MSI RTX 3070 Ti SUPRIM X 8G (912-V505-010)",
+            "nameTranslit": "videokarta-msi-rtx-3070-ti-suprim-x-8g-912-v505-010",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30062435",
+            "materialSource": "ERP",
+            "modelName": "RTX 3070 Ti SUPRIM X 8G (912-V505-010)",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30062435b.jpg",
+            "brandId": "1001",
+            "brandName": "MSI",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30062435.jpg",
+                "Pdb/30062435b.jpg",
+                "Pdb/30062435b1.jpg",
+                "Pdb/30062435b2.jpg",
+                "Pdb/30062435b3.jpg",
+                "Pdb/30062435b4.jpg",
+                "Pdb/30062435s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "8 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "5888",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1875",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "19000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "30065815",
+            "name": "Видеокарта Palit Geforce RTX 3090 Gaming Pro 24G GDDR6X",
+            "nameTranslit": "videokarta-palit-geforce-rtx-3090-gaming-pro-24g-gddr6x",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "30065815",
+            "materialSource": "ERP",
+            "modelName": "Palit Geforce RTX3090 GamingPro 24G GDDR6X",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/30065815b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/30065815.jpg",
+                "Pdb/30065815b.jpg",
+                "Pdb/30065815b1.jpg",
+                "Pdb/30065815b2.jpg",
+                "Pdb/30065815b3.jpg",
+                "Pdb/30065815b4.jpg",
+                "Pdb/30065815b5.jpg",
+                "Pdb/30065815b6.jpg",
+                "Pdb/30065815s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "24 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "10496",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "1695",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 626,
+                    "name": "Выход HDMI",
+                    "value": "1",
+                    "nameDescription": "HDMI – это сокращение от High Definition Multimedia Interface (мультимедийный интерфейс высокого разрешения). Он передает несжатую цифровую информацию видеоизображения с защитой от копирования (HDCP), а также многоканальное аудио.",
+                    "valueDescription": null,
+                    "priority": 9,
+                    "measure": "шт"
+                }
+            ],
+            "multiofferInfo": null
+        },
+        {
+            "productId": "400050467",
+            "name": "Видеокарта Palit GeForce RTX 4090 GAMEROCK OMNIBLACK 24GB",
+            "nameTranslit": "videokarta-palit-geforce-rtx-4090-gamerock-omniblack-24gb",
+            "productType": "DIG",
+            "usedProductType": null,
+            "materialCisNumber": "400050467",
+            "materialSource": "ERP",
+            "modelName": "GeForce RTX 4090 GAMEROCK OMNIBLACK 24GB",
+            "rating": {
+                "star": null,
+                "count": null,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "partnerType": null,
+            "preorder": null,
+            "isMprimeSubscription": false,
+            "image": "Pdb/small_pic/480/400050467b.jpg",
+            "brandId": "2201",
+            "brandName": "Palit",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "5438",
+                "name": "Видеокарты"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400050467.jpg",
+                "Pdb/400050467b.jpg",
+                "Pdb/400050467b1.jpg",
+                "Pdb/400050467b2.jpg",
+                "Pdb/400050467b3.jpg",
+                "Pdb/400050467b4.jpg",
+                "Pdb/400050467b5.jpg",
+                "Pdb/400050467s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 2087,
+                    "name": "Объем видеопамяти",
+                    "value": "24 ГБ",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": null
+                },
+                {
+                    "id": 2383,
+                    "name": "Тип видеопамяти",
+                    "value": "GDDR6X",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 2386,
+                    "name": "Число универсальных процессоров",
+                    "value": "16384",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 2385,
+                    "name": "Частота графического процессора",
+                    "value": "2235",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "МГц"
+                },
+                {
+                    "id": 634,
+                    "name": "Частота памяти",
+                    "value": "21000",
+                    "nameDescription": "Чем выше частота, тем быстрее будет передана информация на обработку и тем выше будет производительность устройства.",
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": "МГц"
+                }
+            ],
+            "multiofferInfo": null
+        }
+    ]
+]
